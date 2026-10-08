@@ -1,6 +1,6 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-09-26T06:08:08",
+  "generated_at": "2026-10-08T14:36:07",
   "vehicle_count": 249,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1C4BJWEGXEL274956",
       "stock": "6TR2535",
       "color": "Black",
+      "trim": "Unlimited SAHARA",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/555d9a18bc7a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2014/jeep/wrangler-unlimited/north-vancouver/bc/71221113/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2014/jeep/wrangler-unlimited/north-vancouver/bc/71221113/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 86142,
       "year": 2014,
       "make": "Jeep",
-      "model": "Wrangler Unlimited SAHARA",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Murano SL/SUNROOF/NAVIGATION/PWR SEAT",
       "vin": "5N1AZ2MH7GN123034",
       "stock": "6P95561",
       "color": "Blue",
+      "trim": "SL/SUNROOF/NAVIGATION/PWR SEAT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7f5f92bc52c7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2016/nissan/murano/north-vancouver/bc/70489403/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2016/nissan/murano/north-vancouver/bc/70489403/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,8 +40,10 @@
       "odometer_km": 159788,
       "year": 2016,
       "make": "Nissan",
-      "model": "Murano SL/SUNROOF/NAVIGATION/PWR SEAT",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Silverado 1500 Crew Cab HIGH COUNTRY/WIRELESS CHARGING/TRAILERING PKG",
@@ -54,13 +60,16 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab HIGH COUNTRY/WIRELESS CHARGING/TRAILERING PKG",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2017 Volvo XC90 T6 INSCRIPTION",
       "vin": "YV4A22PL3H1176327",
       "stock": "6P95941",
       "color": "Blue",
+      "trim": "T6 INSCRIPTION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/750f137a2dfe.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2017/volvo/xc90/north-vancouver/bc/70975673/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2017/volvo/xc90/north-vancouver/bc/70975673/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +79,17 @@
       "odometer_km": 173899,
       "year": 2017,
       "make": "Volvo",
-      "model": "XC90 T6 INSCRIPTION",
-      "condition": "used"
+      "model": "XC90",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Tacoma SR5 V6/SUNROOF",
       "vin": "5TFDZ5BN5JX029550",
       "stock": "981832",
       "color": "Silver",
+      "trim": "SR5 V6/SUNROOF",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/0988d39d041b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2018/toyota/tacoma/north-vancouver/bc/70567515/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2018/toyota/tacoma/north-vancouver/bc/70567515/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +99,17 @@
       "odometer_km": 71425,
       "year": 2018,
       "make": "Toyota",
-      "model": "Tacoma SR5 V6/SUNROOF",
-      "condition": "used"
+      "model": "Tacoma",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Equinox LT AWD/NAVIGATION/SUNROOF/PWR LIFEGATE",
       "vin": "2GNAXVEXXK6218550",
       "stock": "6E85601",
       "color": "Red",
+      "trim": "LT /NAVIGATION/SUNROOF/PWR LIFEGATE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/9fe8a84f07f2.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2019/chevrolet/equinox/north-vancouver/bc/70997663/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2019/chevrolet/equinox/north-vancouver/bc/70997663/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,8 +119,10 @@
       "odometer_km": 109676,
       "year": 2019,
       "make": "Chevrolet",
-      "model": "Equinox LT AWD/NAVIGATION/SUNROOF/PWR LIFEGATE",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Porsche Macan ",
@@ -122,13 +139,16 @@
       "year": 2019,
       "make": "Porsche",
       "model": "Macan",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Volvo S60 MOMENTUM",
       "vin": "7JRA22TK2KG018373",
       "stock": "7B41701",
       "color": "Red",
+      "trim": "MOMENTUM",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/9ced978a4c2d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2019/volvo/s60/north-vancouver/bc/70997664/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2019/volvo/s60/north-vancouver/bc/70997664/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +158,17 @@
       "odometer_km": 85413,
       "year": 2019,
       "make": "Volvo",
-      "model": "S60 MOMENTUM",
-      "condition": "used"
+      "model": "S60",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X5 xDrive40i/AWD",
       "vin": "5UXCR6C06L9B47779",
       "stock": "6U94501",
       "color": "Blue",
+      "trim": "xDrive40i",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/381c2ac69ec7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2020/bmw/x5/north-vancouver/bc/71232909/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2020/bmw/x5/north-vancouver/bc/71232909/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +178,17 @@
       "odometer_km": 72460,
       "year": 2020,
       "make": "BMW",
-      "model": "X5 xDrive40i/AWD",
-      "condition": "used"
+      "model": "X5",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Corvette Z51 PERFORMANCE PKG/NAVIGATION",
       "vin": "1G1Y82D40L5102385",
       "stock": "7CV0018",
       "color": "Black",
+      "trim": "Z51 PERFORMANCE PKG/NAVIGATION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f0bd4e78e204.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2020/chevrolet/corvette/north-vancouver/bc/70975674/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2020/chevrolet/corvette/north-vancouver/bc/70975674/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,8 +198,10 @@
       "odometer_km": 13560,
       "year": 2020,
       "make": "Chevrolet",
-      "model": "Corvette Z51 PERFORMANCE PKG/NAVIGATION",
-      "condition": "used"
+      "model": "Corvette",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Tiguan ",
@@ -190,13 +218,16 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Cadillac XT5 AWD LUXURY/ADAPTIVE REMOTE START/PWR LIFTGATE",
       "vin": "1GYKNBR4XMZ113865",
       "stock": "6L12221",
       "color": "Black",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/3662aecf63a9.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2021/cadillac/xt5/north-vancouver/bc/70802638/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2021/cadillac/xt5/north-vancouver/bc/70802638/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +237,17 @@
       "odometer_km": 75357,
       "year": 2021,
       "make": "Cadillac",
-      "model": "XT5 AWD LUXURY/ADAPTIVE REMOTE START/PWR LIFTGATE",
-      "condition": "used"
+      "model": "XT5",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee HIGH ALTITUDE",
       "vin": "1C4RJFCG8MC582580",
       "stock": "982130",
       "color": "Black",
+      "trim": "HIGH ALTITUDE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/fc1f6199ee23.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2021/jeep/grand-cherokee/north-vancouver/bc/71373791/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2021/jeep/grand-cherokee/north-vancouver/bc/71373791/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,8 +257,10 @@
       "odometer_km": 77112,
       "year": 2021,
       "make": "Jeep",
-      "model": "Grand Cherokee HIGH ALTITUDE",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Yukon 4WD/GMC PRO SAFETY/TRAILERING PKG/GOOGLE BUILT-IN",
@@ -241,13 +277,16 @@
       "year": 2022,
       "make": "GMC",
       "model": "Yukon 4WD/GMC PRO SAFETY/TRAILERING PKG/GOOGLE BUILT-IN",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Volvo XC90 MOMENTUM/AWD",
       "vin": "YV4A22PK1N1860991",
       "stock": "6U94502",
       "color": "Silver",
+      "trim": "MOMENTUM",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/b50390989979.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2022/volvo/xc90/north-vancouver/bc/71232910/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2022/volvo/xc90/north-vancouver/bc/71232910/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +296,17 @@
       "odometer_km": 36829,
       "year": 2022,
       "make": "Volvo",
-      "model": "XC90 MOMENTUM/AWD",
-      "condition": "used"
+      "model": "XC90",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Cadillac Escalade PANO SUNROOF/AKG SPKRS/TRAILER PKG",
       "vin": "1GYS4GKL5PR139683",
       "stock": "6D81221",
       "color": "Black",
+      "trim": "PANO SUNROOF/AKG SPKRS/TRAILER PKG",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/30415583575e.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/cadillac/escalade/north-vancouver/bc/71292061/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/cadillac/escalade/north-vancouver/bc/71292061/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +316,17 @@
       "odometer_km": 66199,
       "year": 2023,
       "make": "Cadillac",
-      "model": "Escalade PANO SUNROOF/AKG SPKRS/TRAILER PKG",
-      "condition": "used"
+      "model": "Escalade",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Transit Cargo Van Transit Cargo Van",
       "vin": "1FTBR2Y86PKB42601",
       "stock": "981831",
       "color": "White",
+      "trim": "Van Transit Cargo Van",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/b79bd443f604.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/ford/transit-cargo-van/north-vancouver/bc/70567516/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/ford/transit-cargo-van/north-vancouver/bc/70567516/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,8 +336,10 @@
       "odometer_km": 2036,
       "year": 2023,
       "make": "Ford",
-      "model": "Transit Cargo Van Transit Cargo Van",
-      "condition": "used"
+      "model": "Transit Cargo",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Yukon XL SLT/PANO SUNROOF/GOOGLE BUILT-IN/MAX TRAILERING PK",
@@ -309,13 +356,16 @@
       "year": 2023,
       "make": "GMC",
       "model": "Yukon XL SLT/PANO SUNROOF/GOOGLE BUILT-IN/MAX TRAILERING PK",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Infiniti QX55 LUXE AWD /SAFTEY SENSORS/SUNROOF/LEATHER",
       "vin": "3PCAJ5JR8PF116781",
       "stock": "981200",
       "color": "Silver",
+      "trim": "LUXE /SAFTEY SENSORS/SUNROOF/LEATHER",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/64876ca30d34.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/infiniti/qx55/north-vancouver/bc/68620307/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/infiniti/qx55/north-vancouver/bc/68620307/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +375,17 @@
       "odometer_km": 35213,
       "year": 2023,
       "make": "Infiniti",
-      "model": "QX55 LUXE AWD /SAFTEY SENSORS/SUNROOF/LEATHER",
-      "condition": "used"
+      "model": "QX55",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz EQE SUV EQE 500",
       "vin": "4JGGM2CB9PA015818",
       "stock": "6D52891",
       "color": "Black",
+      "trim": "SUV EQE 500",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7ee1e77e80e0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/mercedes-benz/eqe-suv/north-vancouver/bc/71150244/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/mercedes-benz/eqe-suv/north-vancouver/bc/71150244/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +395,17 @@
       "odometer_km": 25370,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "EQE SUV EQE 500",
-      "condition": "used"
+      "model": "EQE",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Porsche Macan AWD/SUNROOF/NAVIGATION/LEATHER",
       "vin": "WP1AA2A5XPLB13730",
       "stock": "982090",
       "color": "Brown",
+      "trim": "SUNROOF/NAVIGATION/LEATHER",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/af4585b70926.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/porsche/macan/north-vancouver/bc/71123790/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/porsche/macan/north-vancouver/bc/71123790/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,8 +415,10 @@
       "odometer_km": 49000,
       "year": 2023,
       "make": "Porsche",
-      "model": "Macan AWD/SUNROOF/NAVIGATION/LEATHER",
-      "condition": "used"
+      "model": "Macan",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -377,7 +435,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -394,13 +454,16 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota bZ4X LE FWD",
       "vin": "JTMAAAAA4PA003051",
       "stock": "7P43921",
       "color": "Silver",
+      "trim": "LE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/139e93f2ca2d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2023/toyota/bz4x/north-vancouver/bc/71169403/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2023/toyota/bz4x/north-vancouver/bc/71169403/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,8 +473,10 @@
       "odometer_km": 57885,
       "year": 2023,
       "make": "Toyota",
-      "model": "bZ4X LE FWD",
-      "condition": "used"
+      "model": "bZ4X",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Cadillac CT5 V-Series/PERFORMANCE PKG/DRIVER ASSIST PKG",
@@ -428,7 +493,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "CT5 V-Series/PERFORMANCE PKG/DRIVER ASSIST PKG",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Corvette ",
@@ -445,13 +512,16 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Corvette",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Suburban HIGH COUNTRY/PREMIUM PKG/SURROUND VISION",
       "vin": "1GNSKGKT2RR332086",
       "stock": "6U42341",
       "color": "Grey",
+      "trim": "HIGH COUNTRY/PREMIUM PKG/SURROUND VISION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/a4c567da3ea5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/chevrolet/suburban/north-vancouver/bc/71292062/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/chevrolet/suburban/north-vancouver/bc/71292062/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +531,17 @@
       "odometer_km": 38000,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Suburban HIGH COUNTRY/PREMIUM PKG/SURROUND VISION",
-      "condition": "used"
+      "model": "Suburban",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang Fastback DARK HORSE",
       "vin": "1FA6P8R05R5500278",
       "stock": "7CV0018",
       "color": "Blue",
+      "trim": "Fastback DARK HORSE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/9f9ab8ebc039.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/ford/mustang-fastback/north-vancouver/bc/70826193/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/ford/mustang-fastback/north-vancouver/bc/70826193/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +551,17 @@
       "odometer_km": 4618,
       "year": 2024,
       "make": "Ford",
-      "model": "Mustang Fastback DARK HORSE",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 GMC HUMMER EV SUV 2X",
       "vin": "1GKB0NDE9RU112205",
       "stock": "982110",
       "color": "Grey",
+      "trim": "SUV 2X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/a2868eb495a0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/gmc/hummer-ev-suv/north-vancouver/bc/71249669/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/gmc/hummer-ev-suv/north-vancouver/bc/71249669/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +571,17 @@
       "odometer_km": 39937,
       "year": 2024,
       "make": "GMC",
-      "model": "HUMMER EV SUV 2X",
-      "condition": "used"
+      "model": "Hummer EV",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 3500HD DENALI ULTIMATE/SUNROOF/TECHNOLOGY PKG",
       "vin": "1GT49YEY8RF315482",
       "stock": "6A36991",
       "color": "Black",
+      "trim": "DENALI ULTIMATE/SUNROOF/TECHNOLOGY PKG",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7538e0a563e8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/gmc/sierra-3500hd/north-vancouver/bc/70729989/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/gmc/sierra-3500hd/north-vancouver/bc/70729989/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,8 +591,10 @@
       "odometer_km": 28697,
       "year": 2024,
       "make": "GMC",
-      "model": "Sierra 3500HD DENALI ULTIMATE/SUNROOF/TECHNOLOGY PKG",
-      "condition": "used"
+      "model": "Sierra 3500HD",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia EV9 LAND",
@@ -530,13 +611,16 @@
       "year": 2024,
       "make": "Kia",
       "model": "EV9 LAND",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Mazda CX-30 GX",
       "vin": "3MVDMBBM3RM701190",
       "stock": "6E51011",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/ac2cae448ff6.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/mazda/cx-30/north-vancouver/bc/70740834/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/mazda/cx-30/north-vancouver/bc/70740834/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,8 +630,10 @@
       "odometer_km": 22381,
       "year": 2024,
       "make": "Mazda",
-      "model": "CX-30 GX",
-      "condition": "used"
+      "model": "CX-30",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Z SPORT",
@@ -564,13 +650,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Z SPORT",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Limited",
       "vin": "3C63R3PL4RG108318",
       "stock": "6P04921",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/cabd9c06d92c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2024/ram/3500/north-vancouver/bc/70345734/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2024/ram/3500/north-vancouver/bc/70345734/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,8 +669,10 @@
       "odometer_km": 17180,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Limited",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Atlas Cross Sport HIGHLINE 2.0 TSI/ PANO SUNROOF/NAVI/PWR LIFTGATE",
@@ -598,7 +689,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport HIGHLINE 2.0 TSI/ PANO SUNROOF/NAVI/PWR LIFTGATE",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Cadillac Escalade IQ SPORT 2/SUPER CRUISE/SMART TRAILERING PKG",
@@ -615,7 +708,9 @@
       "year": 2025,
       "make": "Cadillac",
       "model": "Escalade IQ SPORT 2/SUPER CRUISE/SMART TRAILERING PKG",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Express 2500 REAR VIEW CAMERA/PWR WINDOWS/PWR DRIVER SEAT",
@@ -632,7 +727,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Express 2500 REAR VIEW CAMERA/PWR WINDOWS/PWR DRIVER SEAT",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Tahoe Z71/SUNROOF/SURROUND VISION/TRAILERING EQUIPMENT",
@@ -649,13 +746,16 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Tahoe Z71/SUNROOF/SURROUND VISION/TRAILERING EQUIPMENT",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax LT/ADAPTIVE CRUISE CONTROL/CHEVY SAFETY ASSIST",
       "vin": "KL77LHE21SC012476",
       "stock": "7P43761",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/eed80de4db57.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2025/chevrolet/trax/north-vancouver/bc/71150242/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2025/chevrolet/trax/north-vancouver/bc/71150242/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,8 +765,10 @@
       "odometer_km": 27305,
       "year": 2025,
       "make": "Chevrolet",
-      "model": "Trax LT/ADAPTIVE CRUISE CONTROL/CHEVY SAFETY ASSIST",
-      "condition": "used"
+      "model": "Trax",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Express 2500 H.D. TRAILERING EQUIPMENT/DRIVER CONVENIENCE PKG",
@@ -683,7 +785,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Express 2500 H.D. TRAILERING EQUIPMENT/DRIVER CONVENIENCE PKG",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 GMC Sierra 3500HD CREW CAB 4WD | DENALI",
@@ -700,13 +804,16 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 3500HD CREW CAB 4WD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H79SH215890",
       "stock": "983000",
       "color": "Black",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/bc9cad0364e9.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2025/honda/cr-v-hybrid/north-vancouver/bc/71162561/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2025/honda/cr-v-hybrid/north-vancouver/bc/71162561/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +823,17 @@
       "odometer_km": 28000,
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Enclave SPORT TOURING AWD",
       "vin": "5GAEVBKS3TJ329633",
       "stock": "6K96330",
       "color": "Black",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8a804e527659.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/enclave/north-vancouver/bc/69876826/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/enclave/north-vancouver/bc/69876826/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,8 +843,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Enclave SPORT TOURING AWD",
-      "condition": "new"
+      "model": "Enclave",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX EX-DEMO AWD",
@@ -751,13 +863,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Encore GX EX-DEMO AWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Encore GX SPORT TOURING AWD",
       "vin": "KL4AMESL1TB227438",
       "stock": "6K74380",
       "color": "Brown",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/166f3ae23ddd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/encore-gx/north-vancouver/bc/70489399/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/encore-gx/north-vancouver/bc/70489399/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +882,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Encore GX SPORT TOURING AWD",
-      "condition": "new"
+      "model": "Encore GX",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision PREFERRED AWD",
       "vin": "LRBFZMR40TD074673",
       "stock": "6K46730",
       "color": "Black",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7bd8546af2fc.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70229422/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70229422/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +902,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision PREFERRED AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision PREFERRED AWD",
       "vin": "LRBFZMR45TD074779",
       "stock": "6K47790",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b92550c43497.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70229425/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70229425/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +922,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision PREFERRED AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AVENIR AWD",
       "vin": "LRBFZSR4XTD084535",
       "stock": "6K45350",
       "color": "White",
+      "trim": "AVENIR",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/69ebccab5f88.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70489396/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70489396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +942,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AVENIR AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AVENIR AWD",
       "vin": "LRBFZSR44TD100261",
       "stock": "6K02610",
       "color": "Blue",
+      "trim": "AVENIR",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/fd092dc89f62.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70776067/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70776067/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +962,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AVENIR AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AVENIR AWD",
       "vin": "LRBFZSR40TD100533",
       "stock": "6K05330",
       "color": "White",
+      "trim": "AVENIR",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b7e7556a138b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70781689/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/70781689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +982,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AVENIR AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision PREFERRED AWD",
       "vin": "LRBFZMR41TD091787",
       "stock": "6K17870",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/445d9aa59948.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71090739/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71090739/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1002,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision PREFERRED AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision PREFERRED AWD",
       "vin": "LRBFZMR44TD091802",
       "stock": "6K18020",
       "color": "Grey",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/91ce95df77d0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71090740/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71090740/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1022,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision PREFERRED AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision AVENIR AWD",
       "vin": "LRBFZSR47TD018167",
       "stock": "6K81670",
       "color": "White",
+      "trim": "AVENIR",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6b3844c00050.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71334056/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envision/north-vancouver/bc/71334056/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,8 +1042,10 @@
       "odometer_km": 3384,
       "year": 2026,
       "make": "Buick",
-      "model": "Envision AVENIR AWD",
-      "condition": "new"
+      "model": "Envision",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista EX-DEMO | AVENIR",
@@ -921,13 +1062,16 @@
       "year": 2026,
       "make": "Buick",
       "model": "Envista EX-DEMO",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista SPORT TOURING FWD",
       "vin": "KL47LBE26TB227417",
       "stock": "6K74170",
       "color": "Brown",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f2812f577344.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70489397/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70489397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1081,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista SPORT TOURING FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista SPORT TOURING FWD",
       "vin": "KL47LBE27TB230942",
       "stock": "6K09420",
       "color": "Black",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dc912c0d93e7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70489402/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70489402/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1101,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista SPORT TOURING FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista PREFERRED FWD",
       "vin": "KL47LAE22TB257573",
       "stock": "6K75730",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/290f20309f28.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70763779/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70763779/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1121,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista PREFERRED FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista PREFERRED FWD",
       "vin": "KL47LAE29TB265458",
       "stock": "6K54580",
       "color": "White",
+      "trim": "PREFERRED",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/312d4665d29d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70933959/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/70933959/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1141,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista PREFERRED FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista SPORT TOURING FWD",
       "vin": "KL47LBE25TB278620",
       "stock": "6K86200",
       "color": "Black",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3e63ea15182a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/71111433/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/71111433/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1161,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista SPORT TOURING FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envista SPORT TOURING FWD",
       "vin": "KL47LBE2XTB285000",
       "stock": "6K50000",
       "color": "Black",
+      "trim": "SPORT TOURING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e48a0b08af19.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/71111434/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/buick/envista/north-vancouver/bc/71111434/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,8 +1181,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Buick",
-      "model": "Envista SPORT TOURING FWD",
-      "condition": "new"
+      "model": "Envista",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Cadillac Optiq ",
@@ -1040,13 +1201,16 @@
       "year": 2026,
       "make": "Cadillac",
       "model": "Optiq",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT/GOOGLE BUILT-IN/SURROUND VISION",
       "vin": "3GN7DLRP0TS139506",
       "stock": "981981",
       "color": "Black",
+      "trim": "LT/GOOGLE BUILT-IN/SURROUND VISION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e7886d61e6c2.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71150243/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71150243/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1220,17 @@
       "odometer_km": 16987,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT/GOOGLE BUILT-IN/SURROUND VISION",
-      "condition": "used"
+      "model": "Equinox EV",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT FWD/PANORAMIC SUNROOF/SURROUND VISION",
       "vin": "3GN7DLRP7TS106096",
       "stock": "7P43751",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/41e7083a1f96.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71221114/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71221114/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,8 +1240,10 @@
       "odometer_km": 17855,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD/PANORAMIC SUNROOF/SURROUND VISION",
-      "condition": "used"
+      "model": "Equinox EV",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX CREW CAB/SUNROOF/GOOGLE BUILT-IN",
@@ -1091,13 +1260,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX CREW CAB/SUNROOF/GOOGLE BUILT-IN",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Blazer EV LT AWD/SPORT EDITION/SURROUND VISION",
       "vin": "3GNKDGRJ6TS136493",
       "stock": "6BL6493",
       "color": "Black",
+      "trim": "LT /SPORT EDITION/SURROUND VISION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0284b0717748.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/blazer-ev/north-vancouver/bc/71272565/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/blazer-ev/north-vancouver/bc/71272565/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1279,17 @@
       "odometer_km": 3936,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Blazer EV LT AWD/SPORT EDITION/SURROUND VISION",
-      "condition": "new"
+      "model": "Blazer EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4WD TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT-IN",
       "vin": "1GCPTEEK2T1259200",
       "stock": "6CL9200",
       "color": "Black",
+      "trim": "TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5366a0ae0fe5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70287258/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70287258/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1299,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado 4WD TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT-IN",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4WD TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT-IN",
       "vin": "1GCPTEEK9T1277399",
       "stock": "6CL7399",
       "color": "Black",
+      "trim": "TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f768f5ef96f7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70583055/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70583055/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1319,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado 4WD TRAIL BOSS/TECHNOLOGY PKG/GOOGLE BUILT-IN",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4WD TRAIL BOSS/SURROUND VISION/GOOGLE BUILT-IN",
       "vin": "1GCPTEEK1T1226768",
       "stock": "6CL6768",
       "color": "Black",
+      "trim": "TRAIL BOSS/SURROUND VISION/GOOGLE BUILT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b5c6bff42118.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70944403/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/70944403/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1339,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado 4WD TRAIL BOSS/SURROUND VISION/GOOGLE BUILT-IN",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado ZR2/TECHNOLOGY PKG/GOOGLE BUILT-IN",
       "vin": "1GCPTFEK6T1313149",
       "stock": "6CL3149",
       "color": "Black",
+      "trim": "ZR2/TECHNOLOGY PKG/GOOGLE BUILT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/69ec25b484f1.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/71111432/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/71111432/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,8 +1359,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado ZR2/TECHNOLOGY PKG/GOOGLE BUILT-IN",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado 4WD TRAIL BOSS/ADV TRAILERING PKG/GOOGLE BUILT-IN",
@@ -1193,13 +1379,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Colorado 4WD TRAIL BOSS/ADV TRAILERING PKG/GOOGLE BUILT-IN",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Colorado Z71 4WD | Locking Rear Diff/Bose Skprs/Trailer Pkg",
       "vin": "1GCPTDEK2T1321737",
       "stock": "6CL1737",
       "color": "Black",
+      "trim": "Z71",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7a7570709774.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/71249670/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/colorado/north-vancouver/bc/71249670/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1398,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Colorado Z71 4WD",
-      "condition": "new"
+      "model": "Colorado",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette 1LZ Z06",
       "vin": "1G1YD2D35T5601802",
       "stock": "6CV1802",
       "color": "Green",
+      "trim": "1LZ Z06",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d7539af99933.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/68179101/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/68179101/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1418,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette 1LZ Z06",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette 3LT COUPE",
       "vin": "1G1YC2D49T5104831",
       "stock": "6CV4831",
       "color": "Black",
+      "trim": "3LT COUPE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8c4abe622209.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/68338391/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/68338391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1438,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette 3LT COUPE",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Corvette Z06",
       "vin": "1G1YE2D34T5606437",
       "stock": "6CV6437",
       "color": "Black",
+      "trim": "Z06",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f7e2f82fee51.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/70287261/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/corvette/north-vancouver/bc/70287261/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1458,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Corvette Z06",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV EX-DEMO LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRP2TS104482",
       "stock": "6E44820",
       "color": "Blue",
+      "trim": "EX-DEMO LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ca7be9c2d8e1.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/67941463/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/67941463/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1478,17 @@
       "odometer_km": 4298,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV EX-DEMO LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT FWD  | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRP7TS193126",
       "stock": "6E31260",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0bb7b72740aa.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/70933955/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/70933955/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1498,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT FWD  | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRP4TS173822",
       "stock": "6E38220",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cd0a263eb76c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/70944399/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/70944399/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1518,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT FWD  | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRP2TS186374",
       "stock": "6E6374T",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ec88aa807fff.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71135334/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71135334/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1538,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRR7TS193127",
       "stock": "6E31270",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ba56322d0f6d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209323/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209323/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1558,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRR4TS193036",
       "stock": "6E30360",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e38c974c93e6.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209324/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209324/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1578,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EV LT FWD  | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DLRP5TS193125",
       "stock": "6E31250",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/61448591178f.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209325/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox-ev/north-vancouver/bc/71209325/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1598,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox EX-DEMO 2RS AWD",
       "vin": "3GNAXTEGXTL408690",
       "stock": "6E86900",
       "color": "Black",
+      "trim": "EX-DEMO 2RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/419651f7d905.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/69252810/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/69252810/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1618,17 @@
       "odometer_km": 3960,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox EX-DEMO 2RS AWD",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox AWD ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
       "vin": "3GNAXSEGXTL522991",
       "stock": "6E29910",
       "color": "Black",
+      "trim": "ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f4daa493f8f9.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/70583057/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/70583057/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1638,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox AWD ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Equinox ACTIV AWD | 11\" Infotainment/Active Noise Cancel",
       "vin": "3GNAXSEG7TL388778",
       "stock": "6E87780",
       "color": "Black",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4efc565d6a2c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/71259725/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/equinox/north-vancouver/bc/71259725/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,8 +1658,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Equinox ACTIV AWD",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -1448,7 +1678,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -1465,7 +1697,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -1482,7 +1716,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -1499,7 +1735,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -1516,13 +1754,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab RST SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GCUKEE86TG454261",
       "stock": "6L42610",
       "color": "Grey",
+      "trim": "RST",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0187fee4fed5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/70826190/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/70826190/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1773,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab RST SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab LT TRAIL BOSS ** SALES CLEARANCE! **",
       "vin": "3GCUKFE82TG368502",
       "stock": "6L8502T",
       "color": "White",
+      "trim": "LT TRAIL BOSS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/13da0fa3136c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/71078440/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/71078440/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1793,17 @@
       "odometer_km": 100,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab LT TRAIL BOSS ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab RST SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GCPKEEK6TG518582",
       "stock": "6L85820",
       "color": "Black",
+      "trim": "RST",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2db577639719.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/71334058/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-1500-crew-cab/north-vancouver/bc/71334058/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,8 +1813,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 1500 Crew Cab RST SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -1584,7 +1833,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Crew Cab ",
@@ -1601,13 +1852,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500 Crew Cab",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500 LONG BOX CREW CAB ** SALES CLEARANCE! **",
       "vin": "1GC4KMEY3TF225581",
       "stock": "6L55810",
       "color": "Black",
+      "trim": "LONG BOX",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9440ca7f5788.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-2500/north-vancouver/bc/69403960/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-2500/north-vancouver/bc/69403960/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,8 +1871,10 @@
       "odometer_km": 14,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 2500 LONG BOX CREW CAB ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 2500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 2500 ",
@@ -1635,13 +1891,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD LT CREW CAB ** SALES CLEARANCE! **",
       "vin": "1GC4KTE77TF316533",
       "stock": "6L65330",
       "color": "Grey",
+      "trim": "3500HD LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/480617f64c0a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/70414746/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/70414746/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1910,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD LT CREW CAB ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD WORK TRUCK ** SALES CLEARANCE! **",
       "vin": "2GC4KSEY0T1231768",
       "stock": "6L17680",
       "color": "White",
+      "trim": "3500HD WORK TRUCK",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/513ed9ec78f3.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/71135340/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/71135340/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1930,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD WORK TRUCK ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Silverado 3500 3500HD LTZ CREW CAB ** SALES CLEARANCE! **",
       "vin": "2GC4KUEY4T1233695",
       "stock": "6L36950",
       "color": "Black",
+      "trim": "3500HD LTZ",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e085cc9839dd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/71209322/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/silverado-3500-3500hd/north-vancouver/bc/71209322/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1950,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Silverado 3500 3500HD LTZ CREW CAB ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Silverado 3500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Suburban LS/MAX TRAILERING PKG/SURROUND VISION",
       "vin": "1GNS6BKDXTR440950",
       "stock": "6U09500",
       "color": "Black",
+      "trim": "LS/MAX TRAILERING PKG/SURROUND VISION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3e3587489c04.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/suburban/north-vancouver/bc/70922189/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/suburban/north-vancouver/bc/70922189/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1702,8 +1970,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Suburban LS/MAX TRAILERING PKG/SURROUND VISION",
-      "condition": "new"
+      "model": "Suburban",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe PREMIUM/SUNROOF/PWR  LIFTGATE/ADVANCED TRAILERING",
@@ -1720,7 +1990,9 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe PREMIUM/SUNROOF/PWR  LIFTGATE/ADVANCED TRAILERING",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Tahoe HIGH COUNTRY/SUN AND TOW PKG/PWR LIFTGATE",
@@ -1737,13 +2009,16 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Tahoe HIGH COUNTRY/SUN AND TOW PKG/PWR LIFTGATE",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer EX-DEMO ACTIV AWD",
       "vin": "KL79MSSL2TB053495",
       "stock": "6TB3495",
       "color": "Brown",
+      "trim": "EX-DEMO ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c0dc182e321a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/67600909/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/67600909/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2028,17 @@
       "odometer_km": 3101,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer EX-DEMO ACTIV AWD",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer LS AWD",
       "vin": "KL79MNSL5TB100892",
       "stock": "6TB0892",
       "color": "Black",
+      "trim": "LS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1d834e223bfb.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/68988605/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/68988605/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,14 +2048,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer LS AWD",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trailblazer RS AWD",
       "vin": "KL79MUSL4TB272258",
       "stock": "6TB2258",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e9acc11f72b0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/70751915/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trailblazer/north-vancouver/bc/70751915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1787,14 +2068,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trailblazer RS AWD",
-      "condition": "new"
+      "model": "Trailblazer",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Traverse 2LT AWD",
       "vin": "1GNEVGKS9TJ252477",
       "stock": "6TR2477",
       "color": "Black",
+      "trim": "2LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/49b056a7393a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/traverse/north-vancouver/bc/69072493/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/traverse/north-vancouver/bc/69072493/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1804,14 +2088,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Traverse 2LT AWD",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Traverse LT AWD",
       "vin": "1GNEVGKS4TJ225154",
       "stock": "6TR5154",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ff839d70eee7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/traverse/north-vancouver/bc/70185907/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/traverse/north-vancouver/bc/70185907/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1821,14 +2108,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Traverse LT AWD",
-      "condition": "new"
+      "model": "Traverse",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE22TC025562",
       "stock": "6TX5562",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e8c66d7854ff.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69181756/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69181756/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1838,14 +2128,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE20TC030341",
       "stock": "6TX0341",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/15430280bfd0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69403955/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69403955/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2148,17 @@
       "odometer_km": 100,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIVE FWD",
       "vin": "KL77LKE22TC129367",
       "stock": "6TX9367",
       "color": "White",
+      "trim": "ACTIVE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/04926f142ea4.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753597/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753597/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1872,14 +2168,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIVE FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE23TC129087",
       "stock": "6TX9087",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/fb3d04787b3e.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753599/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753599/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2188,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV FWD",
       "vin": "KL77LKE25TC128939",
       "stock": "6TX8939",
       "color": "Grey",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f1d427017970.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753603/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753603/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1906,14 +2208,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE21TC129301",
       "stock": "6TX9301",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/29430116185f.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753612/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753612/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,14 +2228,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax 2RS FWD",
       "vin": "KL77LJE2XTC129451",
       "stock": "6TX9451",
       "color": "White",
+      "trim": "2RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d53236435a86.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753619/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753619/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1940,14 +2248,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax 2RS FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE21TC128763",
       "stock": "6TX8763",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/72167205dc77.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753620/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/69753620/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2268,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV FWD",
       "vin": "KL77LKE22TC182165",
       "stock": "6TX2165",
       "color": "Green",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/587720379516.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70414742/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70414742/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,14 +2288,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV FWD",
       "vin": "KL77LKE29TC207434",
       "stock": "6TX7434",
       "color": "Grey",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9694029c730d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70652623/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70652623/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1991,14 +2308,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax 2RS FWD",
       "vin": "KL77LJE20TC010369",
       "stock": "6TX0369",
       "color": "White",
+      "trim": "2RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cfa27c0e3a8c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70702450/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70702450/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2008,14 +2328,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax 2RS FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax RS FWD",
       "vin": "KL77LGE24TC211825",
       "stock": "6TX1825",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/038c63df6d0c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70751924/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70751924/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2025,14 +2348,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax RS FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV FWD",
       "vin": "KL77LKE25TC237000",
       "stock": "6TX7000",
       "color": "Grey",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b008768b3f55.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70933964/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/70933964/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2368,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax ACTIV FWD",
       "vin": "KL77LKE27TC262092",
       "stock": "6TX2092",
       "color": "Green",
+      "trim": "ACTIV",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/170e6110ca27.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180690/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2059,14 +2388,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax ACTIV FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE22TC264061",
       "stock": "6TX4061",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/67ed9aa48748.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180691/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180691/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2076,14 +2408,17 @@
       "odometer_km": 6,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Chevrolet Trax LT FWD",
       "vin": "KL77LHE26TC263981",
       "stock": "6TX3981",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5348d6487fa4.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180692/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/chevrolet/trax/north-vancouver/bc/71180692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2093,14 +2428,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Chevrolet",
-      "model": "Trax LT FWD",
-      "condition": "new"
+      "model": "Trax",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia AT4 AWD",
       "vin": "1GKENPKS9TJ366251",
       "stock": "6A62510",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dbd73d3ccaa8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/acadia/north-vancouver/bc/70287250/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/acadia/north-vancouver/bc/70287250/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2448,17 @@
       "odometer_km": 34,
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia AT4 AWD",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Acadia EX-DEMO- AT4 AWD",
       "vin": "1GKENPKS4TJ217469",
       "stock": "6A7469T",
       "color": "Black",
+      "trim": "EX-DEMO- AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4c954eb185e4.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/acadia/north-vancouver/bc/70997662/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/acadia/north-vancouver/bc/70997662/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2468,17 @@
       "odometer_km": 3440,
       "year": 2026,
       "make": "GMC",
-      "model": "Acadia EX-DEMO- AT4 AWD",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB 4WD",
       "vin": "1GTP2DEK5T1156530",
       "stock": "6CN6530",
       "color": "Brown",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a8809f592c8b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/68564216/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/68564216/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2144,14 +2488,17 @@
       "odometer_km": 39,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB 4WD",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB 4WD",
       "vin": "1GTP2DEK7T1178643",
       "stock": "6CN8643",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/88cc48cc15b7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69264401/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69264401/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,14 +2508,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB 4WD",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4X CREW CAB 4WD",
       "vin": "1GTP2EEK7T1181225",
       "stock": "6CN1225",
       "color": "Black",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3446157eeed6.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69314945/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69314945/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2178,14 +2528,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4X CREW CAB 4WD",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB 4WD",
       "vin": "1GTP2DEK0T1169301",
       "stock": "6CN9301",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/099016cfe622.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69816147/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/69816147/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2195,14 +2548,17 @@
       "odometer_km": 200,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB 4WD",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon ELEVATION CREW CAB",
       "vin": "1GTP2BEK4T1187837",
       "stock": "6CN7837",
       "color": "Black",
+      "trim": "ELEVATION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2e60814611ee.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70109150/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70109150/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2212,14 +2568,17 @@
       "odometer_km": 98,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon ELEVATION CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB",
       "vin": "1GTP2DEK0T1280561",
       "stock": "6CN0561",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c4b7a63ea8d1.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70613323/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70613323/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,14 +2588,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4X CREW CAB",
       "vin": "1GTP2EEK8T1281382",
       "stock": "6CN1382",
       "color": "White",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/fdadc80f77a0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70613324/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70613324/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2246,14 +2608,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4X CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB",
       "vin": "1GTP2DEK1T1169159",
       "stock": "6CN9159",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/93c00acd518c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70670936/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70670936/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2263,14 +2628,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB",
       "vin": "1GTP2DEK1T1281749",
       "stock": "6CN1749",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4bc7a09fadc8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70702452/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/70702452/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2280,14 +2648,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4 CREW CAB",
       "vin": "1GTP2DEK5T1312811",
       "stock": "6CN2811",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7964e1e64223.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71078441/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71078441/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,14 +2668,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4 CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon DENALI 4WD",
       "vin": "1GTP2FEK4T1316201",
       "stock": "6CN6201",
       "color": "Black",
+      "trim": "DENALI",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2703643eaeb0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71209326/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71209326/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,14 +2688,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon DENALI 4WD",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Canyon AT4X CREW CAB",
       "vin": "1GTP2EEK3T1315549",
       "stock": "6CN5549",
       "color": "Grey",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d31b9a408b96.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71209327/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/canyon/north-vancouver/bc/71209327/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2708,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Canyon AT4X CREW CAB",
-      "condition": "new"
+      "model": "Canyon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV Pickup 2X",
       "vin": "1GT4EBDD5TU605589",
       "stock": "6HM5589",
       "color": "Brown",
+      "trim": "Pickup 2X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/993bf5597c90.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/hummer-ev-pickup/north-vancouver/bc/70461670/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/hummer-ev-pickup/north-vancouver/bc/70461670/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,14 +2728,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV Pickup 2X",
-      "condition": "new"
+      "model": "Hummer EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC HUMMER EV SUV 2X",
       "vin": "1GKTENDE2TU604913",
       "stock": "6HM4913",
       "color": "Black",
+      "trim": "SUV 2X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dcc6e436de29.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/hummer-ev-suv/north-vancouver/bc/70185900/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/hummer-ev-suv/north-vancouver/bc/70185900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2365,8 +2748,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "HUMMER EV SUV 2X",
-      "condition": "new"
+      "model": "Hummer EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2383,7 +2768,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2400,7 +2787,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2417,7 +2806,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab CREW CAB ** SALES CLEARANCE! **",
@@ -2434,7 +2825,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab CREW CAB ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2451,7 +2844,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab CREW CAB ** SALES CLEARANCE! **",
@@ -2468,7 +2863,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab CREW CAB ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2485,7 +2882,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2502,13 +2901,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab AT4X SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GTUUFEL3TG427992",
       "stock": "6R79920",
       "color": "Black",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2370a3bd95bc.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/70613325/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/70613325/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2518,8 +2920,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab AT4X SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
@@ -2536,13 +2940,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 1500 Crew Cab SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ELEVATION SHORT BOX ** SALES CLEARANCE! **",
       "vin": "1GTPUCEK0TZ474724",
       "stock": "6R47240",
       "color": "Grey",
+      "trim": "ELEVATION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/922f433984fc.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71036889/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71036889/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2552,14 +2959,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab ELEVATION SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GTUUEE82TG463193",
       "stock": "6R3193T",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/87d25a3914e7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71078442/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71078442/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2569,14 +2979,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GTUUEE81TG486660",
       "stock": "6R66600",
       "color": "Grey",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0c476647879d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71135335/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71135335/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2586,14 +2999,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
       "vin": "3GTUUEE86TG503405",
       "stock": "6R3405T",
       "color": "Black",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1855a0beb3af.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71232893/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71232893/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2603,14 +3019,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab AT4 SHORT BOX ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 1500 Crew Cab ELEVATION 4WD | Driver Assist Pkg/Trailer Pkg",
       "vin": "1GTUUCE82TZ501946",
       "stock": "6R19460",
       "color": "Black",
+      "trim": "ELEVATION",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a5ae06902971.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71309936/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-1500-crew-cab/north-vancouver/bc/71309936/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2620,14 +3039,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 1500 Crew Cab ELEVATION 4WD",
-      "condition": "new"
+      "model": "Sierra 1500",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500HD AT4X ** SALES CLEARANCE! **",
       "vin": "1GT4UZEY8TF353466",
       "stock": "6R34660",
       "color": "Grey",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/96fdf32d13a4.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-2500hd/north-vancouver/bc/70826192/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-2500hd/north-vancouver/bc/70826192/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2637,14 +3059,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 2500HD AT4X ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 2500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 2500HD AT4X ** SALES CLEARANCE! **",
       "vin": "1GT4UZEY3TF396189",
       "stock": "6R61890",
       "color": "Black",
+      "trim": "AT4X",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/542a99ede467.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-2500hd/north-vancouver/bc/71334057/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-2500hd/north-vancouver/bc/71334057/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2654,14 +3079,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 2500HD AT4X ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 2500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UTEY6TF184867",
       "stock": "6R48670",
       "color": "Grey",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/80c78d2b03bf.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/68722301/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/68722301/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2671,14 +3099,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD AT4 CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UVEY7TF226829",
       "stock": "6R6829T",
       "color": "White",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0eb584b5bca0.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70128831/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70128831/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2688,14 +3119,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD AT4 CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UTEY9TF294392",
       "stock": "6R43920",
       "color": "Grey",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0c91a20494d5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70150781/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70150781/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2705,14 +3139,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD DENALI CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UWEY7TF295817",
       "stock": "6R58170",
       "color": "White",
+      "trim": "DENALI",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a96f5965aba9.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70229416/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70229416/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2722,14 +3159,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD DENALI CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD DENALI CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UWEY8TF322667",
       "stock": "6R26670",
       "color": "Black",
+      "trim": "DENALI",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/09f5a4dd01ee.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70461669/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70461669/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2739,14 +3179,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD DENALI CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UTEY2TF320203",
       "stock": "6R02030",
       "color": "Grey",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0eab9cf47ee8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70461671/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70461671/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2756,14 +3199,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
       "vin": "1GT4UTEY3TF338922",
       "stock": "6R89220",
       "color": "Black",
+      "trim": "SLE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/97beb4d68052.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70670939/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/sierra-3500hd/north-vancouver/bc/70670939/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2773,8 +3219,10 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "GMC",
-      "model": "Sierra 3500HD SLE CREW CAB 4WD ** SALES CLEARANCE! **",
-      "condition": "new"
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Sierra 3500HD ",
@@ -2791,13 +3239,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon AT4 ULTIMATE/PANORAMIC SUNROOF/ADVANCED TECHNOLOGY",
       "vin": "1GKS2VKL3TR351268",
       "stock": "6Y12680",
       "color": "Black",
+      "trim": "AT4 ULTIMATE",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/431320704bbc.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/gmc/yukon/north-vancouver/bc/70150783/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/gmc/yukon/north-vancouver/bc/70150783/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2807,8 +3258,10 @@
       "odometer_km": 11180,
       "year": 2026,
       "make": "GMC",
-      "model": "Yukon AT4 ULTIMATE/PANORAMIC SUNROOF/ADVANCED TECHNOLOGY",
-      "condition": "new"
+      "model": "Yukon",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon DENALI/SUN AND POWER STEP PKG/SURROUND VISION",
@@ -2825,7 +3278,9 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon DENALI/SUN AND POWER STEP PKG/SURROUND VISION",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 GMC Yukon DENALI/SURROUND VISION/MAGNETIC RIDE CONTROL",
@@ -2842,13 +3297,16 @@
       "year": 2026,
       "make": "GMC",
       "model": "Yukon DENALI/SURROUND VISION/MAGNETIC RIDE CONTROL",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-V Turbo Sport SPORT/SUNROOF",
       "vin": "3CZRZ2H50TM100359",
       "stock": "982050",
       "color": "Black",
+      "trim": "Turbo Sport SPORT/SUNROOF",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/23196619bded.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2026/honda/hr-v-turbo-sport/north-vancouver/bc/70900789/?sale_class=used",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2026/honda/hr-v-turbo-sport/north-vancouver/bc/70900789/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2858,196 +3316,238 @@
       "odometer_km": 10906,
       "year": 2026,
       "make": "Honda",
-      "model": "HR-V Turbo Sport SPORT/SUNROOF",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV5VF108508",
       "stock": "7B85080",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7ce056cb0460.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69753604/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69753604/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:09:47",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF108503",
       "stock": "7B85030",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ab49cdae6864.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69753609/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69753609/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:09:55",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF109205",
       "stock": "7B92050",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8bc0cddb2fd8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816144/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816144/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:03",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV8VF109197",
       "stock": "7B91970",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9fb30657c62d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816145/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816145/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:13",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF109201",
       "stock": "7B92010",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e1e62d313ca2.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816146/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69816146/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:15",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV1VF110434",
       "stock": "7B04340",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2a1968e200df.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954422/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954422/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:22",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV4VF110427",
       "stock": "7B04270",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3d1dc0c1547a.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954424/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954424/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:32",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF110428",
       "stock": "7B04280",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/922c2e6b11e8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954427/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/69954427/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:40",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF110936",
       "stock": "7B09360",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4999bc9269b5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038097/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038097/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:49",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF111076",
       "stock": "7B10760",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/02ae57bacbc5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038098/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038098/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:10:59",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF110318",
       "stock": "7B03180",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/01d1553ae01b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038099/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:11:08",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV4VF111092",
       "stock": "7B10920",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f3c4d104b49c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038100/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:11:15",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF110934",
       "stock": "7B09340",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/bbbd5b374f0f.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038101/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038101/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:11:24",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF111066",
       "stock": "7B10660",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/53ad3de7a2d7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038102/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038102/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3057,14 +3557,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV2VF110930",
       "stock": "7B09300",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/469d412e4f82.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038105/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038105/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3074,14 +3577,17 @@
       "odometer_km": 6,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF110920",
       "stock": "7B09200",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/37519f3e9826.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038106/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70038106/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3091,14 +3597,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF112358",
       "stock": "7B23580",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c6f882113698.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150768/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150768/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3108,14 +3617,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV0VF112384",
       "stock": "7B23840",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/760592097163.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150771/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3125,14 +3637,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV0VF111784",
       "stock": "7B17840",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5ae0d5157944.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150773/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150773/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3142,14 +3657,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV8VF111757",
       "stock": "7B17570",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d456fd9bc8da.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150775/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150775/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3159,14 +3677,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF112380",
       "stock": "7B23800",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8cbb89c7e86b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150778/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70150778/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3176,168 +3697,204 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV2VF112886",
       "stock": "7B28860",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8d55a4282c12.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70229410/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70229410/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:23",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV5VF113868",
       "stock": "7B38680",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6ac00e13c3c2.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70287259/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70287259/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:31",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV0VF114505",
       "stock": "7B45050",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/68021729a3ea.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70358356/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70358356/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:39",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF114319",
       "stock": "7B43190",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3a960082119c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70372697/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70372697/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:48",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF114186",
       "stock": "7B41860",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d4b5c72cfa91.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70372701/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70372701/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:01:56",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF114336",
       "stock": "7B43360",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3c801ba5a7f7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70414741/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70414741/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:04",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV7VF116884",
       "stock": "7B68840",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/80b4fab9a3af.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70613320/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70613320/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:13",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV6VF100334",
       "stock": "7B0334T",
       "color": "Orange",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8ccc4a6169dd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70642084/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70642084/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:21",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF117093",
       "stock": "7B70930",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b71cefcfffaa.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702451/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702451/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:29",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV2VF117084",
       "stock": "7B70840",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0e2f1ad57a5d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702453/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702453/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:39",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV7VF117095",
       "stock": "7B70950",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/19e8c0bbb06d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702454/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702454/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:48",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EVXVF111761",
       "stock": "7B17610",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/89007a59a982.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702459/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702459/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3347,176 +3904,214 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV4VF117118",
       "stock": "7B71180",
       "color": "Blue",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/448019289e80.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702460/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70702460/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:02:56",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV9VF117941",
       "stock": "7B79410",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/57257975c14b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70776066/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70776066/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:04",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF118593",
       "stock": "7B85930",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2b1fabee0ef8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70853012/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70853012/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:12",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV3VF119328",
       "stock": "7B93280",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/82ea82475bcf.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70900782/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70900782/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:20",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV4VF119323",
       "stock": "7B93230",
       "color": "Green",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cb52240d21d9.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70900785/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70900785/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:28",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV4VF119256",
       "stock": "7B92560",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c44fd89a340e.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70908048/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70908048/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:37",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV6VF119739",
       "stock": "7B97390",
       "color": "White",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/979973e640d7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70922187/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70922187/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:47",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt LT FWD  | CLAIM YOUR SAVINGS!",
       "vin": "1G1FY6EV6VF119520",
       "stock": "7B95200",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cf2e636761ed.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70957214/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/70957214/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:03:57",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt LT FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV8VF120567",
       "stock": "7B05670",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b0f4bc0bf06d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71111431/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71111431/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:04:06",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV1VF121978",
       "stock": "7B19780",
       "color": "White",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b66ce9b87636.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71135338/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71135338/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:04:15",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EVXVF123115",
       "stock": "7B31150",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/98c30b8f630d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71232899/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71232899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:04:25",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt RS FWD | CLAIM YOUR SAVINGS!",
       "vin": "1G1FZ6EV7VF124433",
       "stock": "7B44330",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3b1692ffbbe5.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71344720/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/bolt/north-vancouver/bc/71344720/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:04:35",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt RS FWD",
-      "condition": "new"
+      "model": "Bolt",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Bolt ",
@@ -3533,7 +4128,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette 2LT/REMOVABLE ROOF PANEL/PERFORMANCE EXHAUST",
@@ -3550,13 +4147,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Corvette 2LT/REMOVABLE ROOF PANEL/PERFORMANCE EXHAUST",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Corvette 2LT | Performance Exhaust/Bose Spkrs/Mag Ride",
       "vin": "1G1YB2D56V5103196",
       "stock": "7CV3196",
       "color": "White",
+      "trim": "2LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8485eaa2b5cb.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/corvette/north-vancouver/bc/71309937/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/corvette/north-vancouver/bc/71309937/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3566,56 +4166,68 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Corvette 2LT",
-      "condition": "new"
+      "model": "Corvette",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRR3VS107403",
       "stock": "7E74030",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/148552bc2da6.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232886/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232886/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:00",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRR1VS107366",
       "stock": "7E73660",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a77d3ebb8b17.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232887/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232887/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:08",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV RS FWD | BIG REWARDS AWAIT!",
       "vin": "3GN7DSRP8VS107545",
       "stock": "7E75450",
       "color": "Grey",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9c7c1837b3c7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232888/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232888/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:17",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV RS FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DNRP3VS107499",
       "stock": "7E74990",
       "color": "Blue",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/45e85f5e178e.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232889/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232889/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3625,246 +4237,299 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DNRP0VS107511",
       "stock": "7E75110",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/07d30c6f4fd1.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232890/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:37",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP3VS107349",
       "stock": "7E73490",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ecd1935b3ef7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232891/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232891/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:46",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRR7VS107386",
       "stock": "7E73860",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/532831df94b7.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232892/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232892/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:05:55",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP2VS108234",
       "stock": "7E82340",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ba7f044601e1.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232894/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232894/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:03",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP0VS108233",
       "stock": "7E82330",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3a1d59246f6c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232896/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232896/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:11",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRR7VS107422",
       "stock": "7E74220",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/95a5c4ec65fe.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232897/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232897/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:20",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP1VS107317",
       "stock": "7E73170",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c6669c7d6bdd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232898/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232898/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:30",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP6VS108236",
       "stock": "7E82360",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b9632be86b16.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232900/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:40",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP4VS107330",
       "stock": "7E73300",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2d5627efecfd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232901/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232901/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:48",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV RS FWD | BIG REWARDS AWAIT!",
       "vin": "3GN7DSRP1VS107533",
       "stock": "7E75330",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7d2538aeb3c2.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232902/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232902/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:06:58",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV RS FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP4VS108218",
       "stock": "7E82180",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/bd431241a1a8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232903/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232903/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:08",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP4VS107313",
       "stock": "7E73130",
       "color": "Brown",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e3c142e64c7f.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232904/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232904/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:18",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV RS FWD | BIG REWARDS AWAIT!",
       "vin": "3GN7DSRP1VS107564",
       "stock": "7E75640",
       "color": "Black",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/09e7d5ff56dd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232905/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232905/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:25",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV RS FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT AWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRR0VS107388",
       "stock": "7E73880",
       "color": "White",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cce900f12f1c.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232906/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232906/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:34",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT AWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP4VS108235",
       "stock": "7E82350",
       "color": "Grey",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/49c98130b569.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232907/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232907/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:43",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DNRP8VS107496",
       "stock": "7E74960",
       "color": "Brown",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c712fdca5bcd.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232908/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71232908/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:07:51",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV LT FWD | UNLOCK YOUR SAVINGS!",
       "vin": "3GN7DMRP2VS108217",
       "stock": "7E82170",
       "color": "Black",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/bf9a5f2d5e12.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71249667/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox-ev/north-vancouver/bc/71249667/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:08:00",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox EV LT FWD",
-      "condition": "new"
+      "model": "Equinox EV",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox EV",
@@ -3878,7 +4543,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox LT AWD/GOOGLE BUILT-IN/CONVENIENCE PACKAGE II",
@@ -3895,7 +4562,9 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox LT AWD/GOOGLE BUILT-IN/CONVENIENCE PACKAGE II",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD ACTIV/GOOGLE BUILT-IN/CONVENIENCE PACKAGE II",
@@ -3912,13 +4581,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox AWD ACTIV/GOOGLE BUILT-IN/CONVENIENCE PACKAGE II",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ACTIV AWD/GOOGLE BUILT-IN/TECHNOLOGY PKG",
       "vin": "3GNAXSEG9VL129759",
       "stock": "7E97590",
       "color": "Black",
+      "trim": "ACTIV /GOOGLE BUILT-IN/TECHNOLOGY PKG",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/322f81358e4d.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70670937/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70670937/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3928,13 +4600,16 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox ACTIV AWD/GOOGLE BUILT-IN/TECHNOLOGY PKG",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
       "vin": "3GNAXSEG3VL148257",
       "stock": "7E82570",
+      "trim": "ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d7eda1fb1371.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70933963/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70933963/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3944,14 +4619,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD ACTIV/GOOGLE BUILT-IN/WIRELESS CHARGING",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD ACTIV/GOOGLE BUILT-IN/PANORAMIC SUNROOF",
       "vin": "3GNAXSEG5VL151354",
       "stock": "7E13540",
       "color": "Grey",
+      "trim": "ACTIV/GOOGLE BUILT-IN",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/49d06af35a93.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70986467/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/70986467/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3961,14 +4639,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD ACTIV/GOOGLE BUILT-IN/PANORAMIC SUNROOF",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD LT/SURROUND VISION/GOOGLE BUILT-IN",
       "vin": "3GNAXPEGXVL150052",
       "stock": "7E00520",
       "color": "Grey",
+      "trim": "LT/SURROUND VISION/GOOGLE BUILT",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4571373bc6e8.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/71009870/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/71009870/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3978,8 +4659,10 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD LT/SURROUND VISION/GOOGLE BUILT-IN",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox ACTIV AWD/ GOOGLE BUILT-IN/WIRELESS CHARGING",
@@ -3995,13 +4678,16 @@
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox ACTIV AWD/ GOOGLE BUILT-IN/WIRELESS CHARGING",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Chevrolet Equinox AWD LT/GOOGLE BUILT-IN/TECHNOLOGY PKG",
       "vin": "3GNAXPEG6VL167995",
       "stock": "7E79950",
       "color": "Grey",
+      "trim": "LT/GOOGLE BUILT-IN/TECHNOLOGY PKG",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1143d04f55c3.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/71135337/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/chevrolet/equinox/north-vancouver/bc/71135337/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4011,14 +4697,17 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Equinox AWD LT/GOOGLE BUILT-IN/TECHNOLOGY PKG",
-      "condition": "new"
+      "model": "Equinox",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadia AT4 AWD | Gloss Black Roof Rails/Trailer Pkg",
       "vin": "1GKEMPKS0VJ131677",
       "stock": "7A16770",
       "color": "Grey",
+      "trim": "AT4",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/106d7844595b.html",
       "source_url": "https://www.carternorthshore.com/vehicles/2027/gmc/acadia/north-vancouver/bc/71309935/?sale_class=new",
       "dealer_url": "https://www.carternorthshore.com/vehicles/2027/gmc/acadia/north-vancouver/bc/71309935/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -4028,8 +4717,10 @@
       "odometer_km": 5,
       "year": 2027,
       "make": "GMC",
-      "model": "Acadia AT4 AWD",
-      "condition": "new"
+      "model": "Acadia",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadia AT4 AWD/ 7 SEATS/PANO SUNROOF/SURROUND VISION",
@@ -4046,7 +4737,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Acadia AT4 AWD/ 7 SEATS/PANO SUNROOF/SURROUND VISION",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 GMC Acadia ELEVATION AWD/7 SEATS/PANO SUNROOF/SURROUND VISION",
@@ -4063,7 +4756,9 @@
       "year": 2027,
       "make": "GMC",
       "model": "Acadia ELEVATION AWD/7 SEATS/PANO SUNROOF/SURROUND VISION",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     }
   ]
 }
