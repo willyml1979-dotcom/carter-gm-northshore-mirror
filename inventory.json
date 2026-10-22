@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-10-22T10:07:44",
-  "vehicle_count": 260,
+  "generated_at": "2026-10-22T10:14:46",
+  "vehicle_count": 262,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -237,6 +237,19 @@
       "province": "BC"
     },
     {
+      "name": "Used2022ChevroletBolt EUVFWDPremier",
+      "vin": "1G1FZ6S05N4133524",
+      "stock": "982250",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/8122f3bb6cdc.html",
+      "source_url": "https://www.carternorthshore.com/inventory/Used-2022-Chevrolet-Bolt_EUV-Premier-1G1FZ6S05N4133524/",
+      "dealer_url": "https://www.carternorthshore.com/inventory/Used-2022-Chevrolet-Bolt_EUV-Premier-1G1FZ6S05N4133524/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T10:11:46",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Certified Used2022ChevroletCorvetteRWD1LT",
       "vin": "1G1YA3D46N5123710",
       "stock": "6CV1802",
@@ -407,7 +420,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/c5bab4f84493.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2023-INFINITI-QX55-LUXE-3PCAJ5JR8PF116781/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2023-INFINITI-QX55-LUXE-3PCAJ5JR8PF116781/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:06:20",
+      "last_verified": "2026-10-22T10:12:07",
       "price": 37000.0,
       "price_currency": "CAD",
       "condition": "used",
@@ -422,7 +435,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/73568d5e88fd.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2023-Kia-EV6-Long_Range-KNDC34LA0P5149344/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2023-Kia-EV6-Long_Range-KNDC34LA0P5149344/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:06:30",
+      "last_verified": "2026-10-22T10:12:18",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -435,7 +448,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/018aefff07eb.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2023-Ram-1500-Limited-1C6SRFHT6PN508008/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2023-Ram-1500-Limited-1C6SRFHT6PN508008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:06:41",
+      "last_verified": "2026-10-22T10:12:27",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -448,7 +461,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7d4e8c43526d.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2023-Tesla-Model_Y-Long_Range-LRWYGDEE6PC081666/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2023-Tesla-Model_Y-Long_Range-LRWYGDEE6PC081666/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:06:51",
+      "last_verified": "2026-10-22T10:12:37",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -461,7 +474,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/221004c059ee.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2023-Toyota-bZ4X-LE-JTMAAAAA4PA003051/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2023-Toyota-bZ4X-LE-JTMAAAAA4PA003051/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:07:00",
+      "last_verified": "2026-10-22T10:12:45",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -474,7 +487,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/06ebc46cbfb4.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2024-Buick-Envision-Sport_Touring-LRBFZPE42RD065313/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2024-Buick-Envision-Sport_Touring-LRBFZPE42RD065313/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:07:10",
+      "last_verified": "2026-10-22T10:12:56",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -487,7 +500,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/1220ab9fa385.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2024-Cadillac-LYRIQ-Tech-1GYKPMRK2RZ110373/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2024-Cadillac-LYRIQ-Tech-1GYKPMRK2RZ110373/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:07:20",
+      "last_verified": "2026-10-22T10:13:07",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -496,11 +509,11 @@
       "name": "Certified Used2024ChevroletBlazer EVAWDeAWD LT",
       "vin": "3GNKDBRJ3RS178700",
       "stock": "982210",
-      "color": "Sterling Gray Metallic",
+      "color": "Sterling Grey Metallic",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/33391597002b.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2024-Chevrolet-Blazer_EV-eAWD_LT-3GNKDBRJ3RS178700/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2024-Chevrolet-Blazer_EV-eAWD_LT-3GNKDBRJ3RS178700/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T15:11:04",
+      "last_verified": "2026-10-22T10:14:29",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -513,7 +526,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e01728e7cf13.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2024-Chevrolet-Corvette-1LT-1G1YA3D4XR5103319/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2024-Chevrolet-Corvette-1LT-1G1YA3D4XR5103319/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T15:11:14",
+      "last_verified": "2026-10-22T10:14:41",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -641,6 +654,18 @@
       "last_verified": "2026-10-20T15:12:44",
       "price": 90699.0,
       "price_currency": "CAD",
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Used2024TeslaModel YAWDLong Range",
+      "vin": "LRWYGDEEXRC659173",
+      "stock": "7VQ4724",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/ec8ce4c31f24.html",
+      "source_url": "https://www.carternorthshore.com/inventory/Used-2024-Tesla-Model_Y-Long_Range-LRWYGDEEXRC659173/",
+      "dealer_url": "https://www.carternorthshore.com/inventory/Used-2024-Tesla-Model_Y-Long_Range-LRWYGDEEXRC659173/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T10:11:58",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -787,7 +812,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f15ed8c355db.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-Chevrolet-Equinox_EV-LT-3GN7DLRP7TS106096/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-Chevrolet-Equinox_EV-LT-3GN7DLRP7TS106096/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:17:17",
+      "last_verified": "2026-10-22T10:13:20",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -800,7 +825,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e362127a3200.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-Chevrolet-Silverado_1500-ZR2-3GCUKHE83TG120271/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-Chevrolet-Silverado_1500-ZR2-3GCUKHE83TG120271/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:17:27",
+      "last_verified": "2026-10-22T10:13:35",
       "price": 77828.0,
       "price_currency": "CAD",
       "condition": "used",
@@ -815,7 +840,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f75266caf1ec.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-Ford-F--150-King_Ranch-1FTFW6L8XTFA85475/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-Ford-F--150-King_Ranch-1FTFW6L8XTFA85475/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:17:37",
+      "last_verified": "2026-10-22T10:13:46",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -828,7 +853,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/1e754d06ac40.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-GMC-Canyon-AT4-1GTP2DEK9T1131212/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-GMC-Canyon-AT4-1GTP2DEK9T1131212/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:17:49",
+      "last_verified": "2026-10-22T10:13:57",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -841,7 +866,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/1b86d22d43e5.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE81TZ153117/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE81TZ153117/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:18:01",
+      "last_verified": "2026-10-22T10:14:07",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -854,7 +879,7 @@
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d61a079eab28.html",
       "source_url": "https://www.carternorthshore.com/inventory/Used-2026-Honda-HR--V-Sport-3CZRZ2H50TM100359/",
       "dealer_url": "https://www.carternorthshore.com/inventory/Used-2026-Honda-HR--V-Sport-3CZRZ2H50TM100359/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:18:11",
+      "last_verified": "2026-10-22T10:14:17",
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
