@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-10-25T21:52:08",
-  "vehicle_count": 261,
+  "generated_at": "2026-10-25T22:00:41",
+  "vehicle_count": 260,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -260,7 +260,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024GMCHUMMER EV SUV4WD2X",
+      "name": "Certified Used2024GMCHUMMER EV SUV4WD2X",
       "vin": "1GKB0NDEXRU109149",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2799744a62c5.html",
       "condition": "used"
@@ -372,7 +372,7 @@
       "condition": "used"
     },
     {
-      "name": "Used2025HyundaiElantraFWDEssential",
+      "name": "Certified Used2025HyundaiElantraFWDEssential",
       "vin": "KMHLM4DG6SU007977",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/889ade6d7b27.html",
       "condition": "used"
@@ -425,12 +425,6 @@
       "name": "Certified Used2026HondaHR-VAWDSport",
       "vin": "3CZRZ2H50TM100359",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d61a079eab28.html",
-      "condition": "used"
-    },
-    {
-      "name": "Certified Used2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV5VF101622",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/60ce6d16c07a.html",
       "condition": "used"
     },
     {
