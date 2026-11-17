@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-10-26T06:49:30",
-  "vehicle_count": 262,
+  "generated_at": "2026-11-17T05:48:29",
+  "vehicle_count": 232,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -428,158 +428,6 @@
       "condition": "used"
     },
     {
-      "name": "New2026GMCSierra 15004WDAT4",
-      "vin": "3GTUUEE81TG486660",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b9382e3445ab.html",
-      "condition": "new",
-      "price": 87123.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDAT4",
-      "vin": "3GTUUEE82TG463193",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a1f60161872f.html",
-      "condition": "new",
-      "price": 90677.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDAT4",
-      "vin": "3GTUUEE86TG503405",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9efdac147c43.html",
-      "condition": "new",
-      "price": 80702.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDAT4X",
-      "vin": "3GTUUFEL3TG427992",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c774eacd89b3.html",
-      "condition": "new",
-      "price": 103542.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGE84TG290840",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f8d44cc31219.html",
-      "condition": "new",
-      "price": 92318.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGED0TG155318",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/19f8d254ceab.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGED3TG349843",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/49d29847a6e7.html",
-      "condition": "new",
-      "price": 91122.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGEDXTG129969",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0656f6ecabf8.html",
-      "condition": "new",
-      "price": 94607.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali Ultimate",
-      "vin": "1GTUUHEL5TZ286936",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/205312d027d7.html",
-      "condition": "new",
-      "price": 109148.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "1GTPUCEK0TZ474724",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/fe9bd33a2653.html",
-      "condition": "new",
-      "price": 68898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "1GTUUCE82TZ501946",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/31e71694cbf7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTPUCEK9TG348152",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c6fdf0382982.html",
-      "condition": "new",
-      "price": 69888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCE84TG109423",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9a6969926262.html",
-      "condition": "new",
-      "price": 80166.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCED4TG130060",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/738314fe54bf.html",
-      "condition": "new",
-      "price": 75117.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
-      "vin": "3GTPUAEK2TG525712",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cbb2aafe8fd9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDSLE",
-      "vin": "3GTUUBED9TG130050",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4008993f98df.html",
-      "condition": "new",
-      "price": 61373.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY3TF396189",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6924889092b1.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY8TF353466",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/98654de788aa.html",
-      "condition": "new",
-      "price": 124323.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDAT4",
-      "vin": "1GT4UVEY7TF226829",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f1c926073525.html",
-      "condition": "new",
-      "price": 108063.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali",
-      "vin": "1GT4UWEY7TF295817",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e56af8b42c56.html",
-      "condition": "new",
-      "price": 115882.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New2026GMCSierra 3500HD4WDDenali",
       "vin": "1GT4UWEY8TF322667",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1d91303f206c.html",
@@ -632,12 +480,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2026GMCSierra EV4WDMax Range Denali",
-      "vin": "1GT4EYEL1TU419640",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2ba53c3b1bf8.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026GMCYukon4WDAT4 Ultimate",
       "vin": "1GKS2VKL3TR351268",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a68d78d8c04b.html",
@@ -655,12 +497,6 @@
       "name": "New2026GMCYukon4WDDenali",
       "vin": "1GKS2DKLXTR411864",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a9129822921f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletBlazer EVAWDSS",
-      "vin": "3GNKDERL9VS108065",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/faa8a69259f5.html",
       "condition": "new"
     },
     {
@@ -713,14 +549,6 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV3VF109205",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f647f9da2bea.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
       "vin": "1G1FY6EV3VF111066",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/82df5c14358d.html",
       "condition": "new",
@@ -745,22 +573,6 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV3VF119328",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f4a75e206997.html",
-      "condition": "new",
-      "price": 43298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV4VF110427",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a539946ca1a6.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
       "vin": "1G1FY6EV4VF111092",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/02b4d9a93a63.html",
       "condition": "new",
@@ -777,33 +589,11 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV4VF119323",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/14006ebe8031.html",
-      "condition": "new",
-      "price": 43298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV5VF108508",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a5a3dc097bae.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
       "vin": "1G1FY6EV5VF113868",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/383d643f442a.html",
       "condition": "new",
       "price": 41808.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV6VF108503",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/fe2bd090793e.html",
-      "condition": "new"
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
@@ -823,38 +613,8 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV6VF118593",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/544e1339a119.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV7VF116884",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9d15ce604fa4.html",
-      "condition": "new",
-      "price": 42803.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV8VF109197",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/631fa41a9630.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
       "vin": "1G1FY6EV8VF111757",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c81e2b7b6232.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EVXVF110920",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f05f1a81be52.html",
       "condition": "new",
       "price": 41808.0,
       "price_currency": "CAD"
@@ -925,14 +685,6 @@
     },
     {
       "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV7VF124433",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a21d75436333.html",
-      "condition": "new",
-      "price": 39213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
       "vin": "1G1FZ6EV8VF120567",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6315d2d95d2e.html",
       "condition": "new",
@@ -993,23 +745,9 @@
     },
     {
       "name": "New2027ChevroletEquinoxAWDAWD LT",
-      "vin": "3GNAXPEG9VL127314",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4d3d3a9c00df.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD LT",
       "vin": "3GNAXPEGXVL150052",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e9a39d94ba49.html",
       "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP0VS108233",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cb53ba91fc93.html",
-      "condition": "new",
-      "price": 44108.0,
-      "price_currency": "CAD"
     },
     {
       "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
@@ -1092,22 +830,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2027ChevroletEquinox EVFWDLT2 w/PDE",
-      "vin": "3GN7DNRP8VS107496",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a8b82aa8eaaf.html",
-      "condition": "new",
-      "price": 48503.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDRS",
-      "vin": "3GN7DSRP1VS107533",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/53fe7f5cf249.html",
-      "condition": "new",
-      "price": 48408.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New2027ChevroletEquinox EVFWDRS",
       "vin": "3GN7DSRP1VS107564",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e0190c39633b.html",
@@ -1122,21 +844,9 @@
       "condition": "new"
     },
     {
-      "name": "New2027ChevroletTraverseAWDZ71",
-      "vin": "1GNEVJKS8VJ167856",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8add4adbc808.html",
-      "condition": "new"
-    },
-    {
       "name": "New2027GMCAcadiaAWDAT4",
       "vin": "1GKEMPKS0VJ131677",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/595bcdcc94e7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027GMCAcadiaAWDAT4",
-      "vin": "1GKEMPKSXVJ149684",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/48523de074e2.html",
       "condition": "new"
     },
     {
@@ -1174,17 +884,6 @@
       "vin": "1GKS2GKD2VR125715",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8447d047d4f0.html",
       "condition": "new"
-    },
-    {
-      "name": "2025 Chevrolet Express Cargo Van BASE",
-      "vin": "1GCWGBF70S1269702",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2d1ce4075332.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Express",
-      "condition": "new",
-      "price": 54990.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Buick Enclave Sport Touring",
@@ -1261,17 +960,6 @@
       "model": "Envision",
       "condition": "new",
       "price": 53497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Preferred",
-      "vin": "LRBFZMR41TD091787",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d32bebe4d1df.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 44398.0,
       "price_currency": "CAD"
     },
     {
@@ -1364,6 +1052,17 @@
     },
     {
       "name": "2026 Buick Envista Sport Touring",
+      "vin": "KL47LBE28TB322545",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8a578cdcedea.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Envista",
+      "condition": "new",
+      "price": 36176.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Buick Envista Sport Touring",
       "vin": "KL47LBE2XTB285000",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f8248d089bb4.html",
       "year": 2026,
@@ -1397,6 +1096,17 @@
     },
     {
       "name": "2026 Chevrolet Colorado 4WD Trail Boss",
+      "vin": "1GCPTEEK3T1291721",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/2573effcbaaf.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 54536.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado 4WD Trail Boss",
       "vin": "1GCPTEEK3T1320943",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/ea94d0e26ba2.html",
       "year": 2026,
@@ -1404,17 +1114,6 @@
       "model": "Colorado",
       "condition": "new",
       "price": 51253.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Colorado 4WD Trail Boss",
-      "vin": "1GCPTEEK9T1277399",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7fe0a9d303b8.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "new",
-      "price": 54658.0,
       "price_currency": "CAD"
     },
     {
@@ -1473,17 +1172,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox AWD ACTIV",
-      "vin": "3GNAXSEGXTL522991",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1577eafd05bb.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new",
-      "price": 43793.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Equinox AWD RS",
       "vin": "3GNAXTEGXTL408690",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e4ad2f40a70e.html",
@@ -1495,29 +1183,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox FWD LT",
-      "vin": "3GNAXHEG7TL250077",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/d6fb891c4a2d.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "new"
-    },
-    {
       "name": "2026 Chevrolet Equinox EV LT",
       "vin": "3GN7DLRP0TS193128",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c561fe25ce99.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 41598.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Equinox EV LT",
-      "vin": "3GN7DLRP2TS186374",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7b648c849e18.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox EV",
@@ -1548,59 +1216,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV LT",
-      "vin": "3GN7DLRR4TS193036",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4bf3ca56d60e.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new",
-      "price": 45893.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 Custom",
-      "vin": "1GCPKBEK2TZ377640",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/eccea61d55a9.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 54018.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss",
-      "vin": "3GCPKCEKXTG386124",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/346303c4d992.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 55862.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 High Country",
-      "vin": "1GCUKJEL4TZ453915",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5d4350afa33c.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 LT",
-      "vin": "2GCUKDED2T1239282",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a5558240d939.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 71223.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 LT Trail Boss",
       "vin": "3GCPKFEK7TG386227",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/00b9ed5a004b.html",
@@ -1620,17 +1235,6 @@
       "model": "Silverado 1500",
       "condition": "new",
       "price": 73817.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss",
-      "vin": "3GCUKFE85TG264361",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dc05b2905826.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 87108.0,
       "price_currency": "CAD"
     },
     {
@@ -1816,17 +1420,6 @@
     },
     {
       "name": "2026 Chevrolet Trax 2RS",
-      "vin": "KL77LJE20TC010369",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f961c084df78.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 34137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax 2RS",
       "vin": "KL77LJE2XTC129451",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9511e89f709d.html",
       "year": 2026,
@@ -1858,17 +1451,6 @@
     },
     {
       "name": "2026 Chevrolet Trax ACTIV",
-      "vin": "KL77LKE22TC182165",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3f0e1f8cb9ad.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 33043.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax ACTIV",
       "vin": "KL77LKE24TC263913",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7d0065a2cd50.html",
       "year": 2026,
@@ -1885,6 +1467,17 @@
       "model": "Trax",
       "condition": "new",
       "price": 32548.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trax ACTIV",
+      "vin": "KL77LKE25TC303657",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6e20a9d2e386.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new",
+      "price": 33076.0,
       "price_currency": "CAD"
     },
     {
@@ -1951,17 +1544,6 @@
       "model": "Trax",
       "condition": "new",
       "price": 31337.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Trax LT",
-      "vin": "KL77LHE22TC264061",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1e01d5993ebc.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 30843.0,
       "price_currency": "CAD"
     },
     {
@@ -2043,17 +1625,6 @@
     },
     {
       "name": "2026 GMC Canyon AT4",
-      "vin": "1GTP2DEK1T1281749",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e0ed516c32b5.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 62812.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Canyon AT4",
       "vin": "1GTP2DEK5T1156530",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e5390eaf422d.html",
       "year": 2026,
@@ -2061,17 +1632,6 @@
       "model": "Canyon",
       "condition": "new",
       "price": 59168.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Canyon AT4",
-      "vin": "1GTP2DEK7T1178643",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c12b8d79391c.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Canyon",
-      "condition": "new",
-      "price": 58673.0,
       "price_currency": "CAD"
     },
     {
@@ -2146,6 +1706,171 @@
       "condition": "new"
     },
     {
+      "name": "2026 GMC Sierra 1500 AT4",
+      "vin": "3GTUUEE81TG486660",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b9382e3445ab.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 75156.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 AT4",
+      "vin": "3GTUUEE82TG463193",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a1f60161872f.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 78710.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 AT4",
+      "vin": "3GTUUEE86TG503405",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9efdac147c43.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 78036.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Denali",
+      "vin": "3GTUUGED0TG155318",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/19f8d254ceab.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 78856.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Denali",
+      "vin": "3GTUUGED3TG349843",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/49d29847a6e7.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 79155.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Denali",
+      "vin": "3GTUUGEDXTG129969",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0656f6ecabf8.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 82640.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Denali Ultimate",
+      "vin": "1GTUUHEL5TZ286936",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/205312d027d7.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 97181.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Elevation",
+      "vin": "3GTPUCEK9TG348152",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c6fdf0382982.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 57921.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Elevation",
+      "vin": "3GTUUCE84TG109423",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9a6969926262.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 67500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 Pro",
+      "vin": "3GTPUAEK2TG525712",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cbb2aafe8fd9.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 62476.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 SLE",
+      "vin": "3GTUUBED9TG130050",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/4008993f98df.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 59406.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 2500HD AT4X",
+      "vin": "1GT4UZEY3TF396189",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6924889092b1.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "condition": "new",
+      "price": 129500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 2500HD AT4X",
+      "vin": "1GT4UZEY8TF353466",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/98654de788aa.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 2500HD",
+      "condition": "new",
+      "price": 124356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD AT4",
+      "vin": "1GT4UVEY7TF226829",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f1c926073525.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "price": 98596.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD Denali",
+      "vin": "1GT4UWEY7TF295817",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e56af8b42c56.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new",
+      "price": 106415.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV3VF110936",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c06525f583c1.html",
@@ -2169,8 +1894,8 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV6VF110428",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/7e73f2a777bc.html",
+      "vin": "1G1FY6EVXVF112358",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/41eb044111ec.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Bolt",
@@ -2179,14 +1904,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EVXVF112358",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/41eb044111ec.html",
+      "name": "2027 Chevrolet Equinox AWD LT",
+      "vin": "3GNAXPEG1VL242411",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cf37590482e3.html",
       "year": 2027,
       "make": "Chevrolet",
-      "model": "Bolt",
+      "model": "Equinox",
       "condition": "new",
-      "price": 41808.0,
+      "price": 40031.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD RS",
+      "vin": "3GNAXTEGXVL204250",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9000bf980318.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 46076.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD RS",
+      "vin": "3GNAXTEGXVL236969",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3a981405eed9.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 50326.0,
       "price_currency": "CAD"
     },
     {
@@ -2201,6 +1948,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Chevrolet Suburban High Country",
+      "vin": "1GNS6GKL7VR174228",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/677a28a8f459.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Suburban",
+      "condition": "new",
+      "price": 117700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Traverse Z71",
+      "vin": "1GNEVJKS9VJ190594",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e0657153e93d.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Traverse",
+      "condition": "new",
+      "price": 63576.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Sierra 1500 AT4",
+      "vin": "3GTUUPEM8VG101073",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dbc24143abcd.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 93426.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 GMC Terrain AWD Denali",
       "vin": "3GKALZEG5VL212381",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9176deec4af7.html",
@@ -2208,6 +1988,39 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "new"
+    },
+    {
+      "name": "2027 GMC Terrain AWD Denali",
+      "vin": "3GKALZEG7VL260948",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9441569f9b8d.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new",
+      "price": 54476.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Yukon Denali Ultimate",
+      "vin": "1GKS2EKLXVR172552",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/240f1576c9ff.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new",
+      "price": 139275.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Yukon Elevation",
+      "vin": "1GKS2BKD0VR169487",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8f250ac2e4a5.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new",
+      "price": 102986.0,
+      "price_currency": "CAD"
     }
   ]
 }
