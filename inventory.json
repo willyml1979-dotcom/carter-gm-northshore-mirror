@@ -1,28 +1,26 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-11-17T05:48:29",
-  "vehicle_count": 232,
+  "generated_at": "2026-11-17T05:59:39",
+  "vehicle_count": 235,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "Used2016NissanMuranoAWDSL",
-      "vin": "5N1AZ2MH7GN123034",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7567de9d5ef7.html",
-      "condition": "used",
-      "price": 13699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2017ChevroletVoltFWDLT",
-      "vin": "1G1RA6S57HU103266",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/38197ea9c987.html",
+      "name": "Used2011LexusRX 450hAWD450h",
+      "vin": "JTJBC1BA3B2417984",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e4e6af266b4d.html",
       "condition": "used"
     },
     {
-      "name": "Used2017VolvoXC90AWDT6 Inscription",
-      "vin": "YV4A22PL3H1176327",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/3159610b8bf9.html",
+      "name": "Used2012BMWX5AWD35d",
+      "vin": "5UXZW0C51C0B88661",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/a232c04fbd9d.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2018HondaCivic SedanFWDSE",
+      "vin": "2HGFC2F60JH028484",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7625072e7af4.html",
       "condition": "used"
     },
     {
@@ -38,7 +36,7 @@
       "condition": "used"
     },
     {
-      "name": "Used2019KiaNiroFWDEX",
+      "name": "Certified Used2019KiaNiroFWDEX",
       "vin": "KNDCC3LCXK5264814",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/1acbe0d3789c.html",
       "condition": "used"
@@ -52,17 +50,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2019VolvoS60AWDMomentum",
-      "vin": "7JRA22TK2KG018373",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f44307d4b092.html",
-      "condition": "used",
-      "price": 23998.0,
-      "price_currency": "CAD"
+      "name": "Certified Used2020BuickEncore GXFWDPreferred",
+      "vin": "KL4MMBS27LB103192",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/aa92d553df91.html",
+      "condition": "used"
     },
     {
-      "name": "Certified Used2020BMWX5AWDxDrive40i",
-      "vin": "5UXCR6C06L9B47779",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/b5b2669f66fc.html",
+      "name": "Certified Used2020ChevroletBolt EVFWDLT",
+      "vin": "1G1FY6S09L4124762",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/3ae57f6a802f.html",
       "condition": "used"
     },
     {
@@ -98,15 +94,15 @@
       "condition": "used"
     },
     {
-      "name": "Certified Used2021JeepGrand Cherokee4WDHigh Altitude",
-      "vin": "1C4RJFCG8MC582580",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e25dcb840fb2.html",
+      "name": "Certified Used2021ChevroletTahoe4WDHigh Country",
+      "vin": "1GNSKTKT6MR355422",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/ee5d1d2403f8.html",
       "condition": "used"
     },
     {
-      "name": "Certified Used2021JeepGrand Cherokee L4WDOverland",
-      "vin": "1C4RJKDG0M8149572",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d95f83162c2b.html",
+      "name": "Certified Used2021JeepGrand Cherokee4WDHigh Altitude",
+      "vin": "1C4RJFCG8MC582580",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e25dcb840fb2.html",
       "condition": "used"
     },
     {
@@ -122,12 +118,6 @@
       "condition": "used",
       "price": 28998.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022BuickEncore GXAWDEssence",
-      "vin": "KL4MMGSL3NB018701",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/0e01aea5eb33.html",
-      "condition": "used"
     },
     {
       "name": "Certified Used2022ChevroletCorvetteRWD1LT",
@@ -148,6 +138,12 @@
       "condition": "used",
       "price": 40538.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2022Mercedes-BenzGLCAWDGLC 300",
+      "vin": "W1N0G8EB9NV366501",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/1d9e3158f407.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2022Ram15004WDBig Horn",
@@ -174,18 +170,16 @@
       "condition": "used"
     },
     {
-      "name": "Certified Used2023ChevroletCorvetteRWD3LZ",
-      "vin": "1G1YF2D39P5600913",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/16a2104eb4e2.html",
+      "name": "Certified Used2023ChevroletBolt EUVFWDLT",
+      "vin": "1G1FY6S01P4194875",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/9f7ad99e8aa2.html",
       "condition": "used"
     },
     {
-      "name": "Certified Used2023FordTransit Cargo VanAWDBase",
-      "vin": "1FTBR2Y86PKB42601",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/43f15245ecc4.html",
-      "condition": "used",
-      "price": 50998.0,
-      "price_currency": "CAD"
+      "name": "Certified Used2023ChevroletBolt EUVFWDPremier",
+      "vin": "1G1FZ6S00P4171732",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2f84f77a0459.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2023GMCCanyon4WDAT4",
@@ -222,12 +216,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2023TeslaModel YAWDLong Range",
-      "vin": "LRWYGDEE6PC081666",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7d4e8c43526d.html",
-      "condition": "used"
-    },
-    {
       "name": "Certified Used2023ToyotabZ4XFWDLE",
       "vin": "JTMAAAAA4PA003051",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/221004c059ee.html",
@@ -256,19 +244,19 @@
       "vin": "1FA6P8R05R5500278",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/0810ee6bb3d4.html",
       "condition": "used",
-      "price": 77998.0,
+      "price": 74700.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2024GMCHUMMER EV Pickup4WD3X",
+      "vin": "1GT40EDA1RU109719",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2764604dabfc.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2024GMCHUMMER EV SUV4WD2X",
       "vin": "1GKB0NDEXRU109149",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2799744a62c5.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2024GMCHUMMER EV SUV4WD3X",
-      "vin": "1GKB0SDC8RU107820",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/16e3158c197d.html",
       "condition": "used"
     },
     {
@@ -295,7 +283,9 @@
       "name": "Certified Used2024MazdaCX-30AWDGX",
       "vin": "3MVDMBBM3RM701190",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/5e87e8e2d1e6.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 27700.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2024MazdaCX-50AWDGT",
@@ -308,8 +298,14 @@
       "vin": "JN1BZ4AHXRM361724",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f2acc2655593.html",
       "condition": "used",
-      "price": 42998.0,
+      "price": 41700.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024PorscheCayenneAWDBase",
+      "vin": "WP1BA2AY1RDA53929",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/109d2a82a1bc.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2024Ram35004WDLimited",
@@ -330,7 +326,7 @@
       "vin": "1V2BE2CA8RC206672",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/c46adbf68aec.html",
       "condition": "used",
-      "price": 38000.0,
+      "price": 35699.0,
       "price_currency": "CAD"
     },
     {
@@ -350,25 +346,33 @@
       "vin": "1GCWGAF70S1219635",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2d1749d9a0db.html",
       "condition": "used",
-      "price": 46998.0,
+      "price": 43700.0,
       "price_currency": "CAD"
     },
     {
       "name": "Certified Used2025ChevroletTahoe4WDZ71",
       "vin": "1GNS6PRD9SR142682",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/78e35fe0ee47.html",
+      "condition": "used",
+      "price": 85700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Certified Used2025ChevroletTraxFWD1RS",
+      "vin": "KL77LGE20SC116550",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/54b558377964.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2025ChevroletTraxFWD1RS",
+      "vin": "KL77LGE27SC084356",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/5a07c6f6cf55.html",
       "condition": "used"
     },
     {
       "name": "Certified Used2025ChevroletTraxFWDLT",
       "vin": "KL77LHE21SC012476",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/a19aaf11b009.html",
-      "condition": "used"
-    },
-    {
-      "name": "Certified Used2025HondaCR-V HybridAWDEX-L",
-      "vin": "2HKRS6H79SH215890",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/ce9991361867.html",
       "condition": "used"
     },
     {
@@ -381,6 +385,12 @@
       "name": "Certified Used2026CadillacOPTIQRWDSport",
       "vin": "3GYK3EM42TS147678",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/c8d7d6741f17.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2026ChevroletCorvetteRWD1LT",
+      "vin": "1G1YA2D41T5105235",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7e54dbd9ef5e.html",
       "condition": "used"
     },
     {
@@ -425,6 +435,12 @@
       "name": "Certified Used2026HondaHR-VAWDSport",
       "vin": "3CZRZ2H50TM100359",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d61a079eab28.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2027ChevroletBoltFWDRS",
+      "vin": "1G1FZ6EV5VF101622",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/60ce6d16c07a.html",
       "condition": "used"
     },
     {

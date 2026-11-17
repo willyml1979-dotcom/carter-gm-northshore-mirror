@@ -1,6 +1,6 @@
 # Carter GM Northshore
 
- dealership in North Vancouver. AI-readable inventory mirror, about 232 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 235 vehicles.
 
 - Official website: https://www.carternorthshore.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/
