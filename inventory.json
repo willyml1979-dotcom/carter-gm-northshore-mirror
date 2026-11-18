@@ -1,22 +1,10 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-11-17T23:10:15",
-  "vehicle_count": 230,
+  "generated_at": "2026-11-17T23:14:56",
+  "vehicle_count": 231,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Used2011LexusRX 450hAWD450h",
-      "vin": "JTJBC1BA3B2417984",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e4e6af266b4d.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2012BMWX5AWD35d",
-      "vin": "5UXZW0C51C0B88661",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/a232c04fbd9d.html",
-      "condition": "used"
-    },
     {
       "name": "Certified Used2018HondaCivic SedanFWDSE",
       "vin": "2HGFC2F60JH028484",
@@ -46,7 +34,7 @@
       "vin": "WP1AB2A59KLB32355",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/89e1722d6a5c.html",
       "condition": "used",
-      "price": 42998.0,
+      "price": 40998.0,
       "price_currency": "CAD"
     },
     {
@@ -72,7 +60,7 @@
       "vin": "1G1Y82D40L5102385",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7da32d1b6fcb.html",
       "condition": "used",
-      "price": 82998.0,
+      "price": 81700.0,
       "price_currency": "CAD"
     },
     {
@@ -91,7 +79,9 @@
       "name": "Certified Used2021CadillacXT5AWDAWD Luxury",
       "vin": "1GYKNBR4XMZ113865",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/6c872b9d04cc.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 29700.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2021ChevroletTahoe4WDHigh Country",
@@ -164,6 +154,12 @@
       "condition": "used"
     },
     {
+      "name": "Certified Used2023CadillacEscalade4WD4WD Premium Luxury",
+      "vin": "1GYS4CKL8PR306580",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7497a807213a.html",
+      "condition": "used"
+    },
+    {
       "name": "Certified Used2023CadillacEscalade4WD4WD Sport Platinum",
       "vin": "1GYS4GKL5PR139683",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7d9149b5ca1b.html",
@@ -179,6 +175,12 @@
       "name": "Certified Used2023ChevroletBolt EUVFWDPremier",
       "vin": "1G1FZ6S00P4171732",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2f84f77a0459.html",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2023ChevroletCorvetteRWD3LZ",
+      "vin": "1G1YF2D39P5600913",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/16a2104eb4e2.html",
       "condition": "used"
     },
     {
@@ -240,6 +242,12 @@
       "condition": "used"
     },
     {
+      "name": "Certified Used2024ChevroletTraxFWDLS",
+      "vin": "KL77LFE25RC170611",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/01792a3729a9.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2024FordMustangRWDDark Horse",
       "vin": "1FA6P8R05R5500278",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/0810ee6bb3d4.html",
@@ -274,7 +282,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024KiaSportageAWDEX",
+      "name": "Certified Used2024KiaSportageAWDEX",
       "vin": "KNDPVCDF4R7290635",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/65378affcc6a.html",
       "condition": "used"
