@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-11-17T23:14:56",
-  "vehicle_count": 231,
+  "generated_at": "2026-11-18T08:32:57",
+  "vehicle_count": 232,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -450,126 +450,6 @@
       "vin": "1G1FZ6EV5VF101622",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/60ce6d16c07a.html",
       "condition": "used"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV2VF117084",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c2aba2c46283.html",
-      "condition": "new",
-      "price": 42803.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV3VF112380",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/bdc28e170369.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV3VF117093",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/602ef71cac69.html",
-      "condition": "new",
-      "price": 42803.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV4VF111092",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/02b4d9a93a63.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV4VF119256",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c22792765846.html",
-      "condition": "new",
-      "price": 42803.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV5VF113868",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/383d643f442a.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV6VF111076",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c079c48c0aaf.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV8VF111757",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c81e2b7b6232.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EVXVF110934",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c3e94f61e625.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EVXVF111761",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dab24bcf38a7.html",
-      "condition": "new",
-      "price": 41808.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EVXVF114319",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9ecb7b6ac9b4.html",
-      "condition": "new",
-      "price": 44928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV0VF114505",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6cc936a7f98c.html",
-      "condition": "new",
-      "price": 40403.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV1VF121978",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/883262a9ee5b.html",
-      "condition": "new",
-      "price": 39213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV4VF126270",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5c05cfa800f6.html",
-      "condition": "new",
-      "price": 39613.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV6VF100334",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/61d948b6e190.html",
-      "condition": "new",
-      "price": 42483.0,
-      "price_currency": "CAD"
     },
     {
       "name": "New2027ChevroletBoltFWDRS",
@@ -1904,6 +1784,17 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV2VF117084",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c2aba2c46283.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 42829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV3VF110936",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c06525f583c1.html",
       "year": 2027,
@@ -1911,6 +1802,72 @@
       "model": "Bolt",
       "condition": "new",
       "price": 41808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV3VF111066",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/82df5c14358d.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV3VF112380",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/bdc28e170369.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV3VF117093",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/602ef71cac69.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 42829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV4VF111092",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/02b4d9a93a63.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV4VF119256",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c22792765846.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 42829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV5VF113868",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/383d643f442a.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
       "price_currency": "CAD"
     },
     {
@@ -1926,6 +1883,50 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV6VF111076",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c079c48c0aaf.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EV8VF111757",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c81e2b7b6232.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EVXVF110934",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/c3e94f61e625.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EVXVF111761",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/dab24bcf38a7.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 41834.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EVXVF112358",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/41eb044111ec.html",
       "year": 2027,
@@ -1933,6 +1934,61 @@
       "model": "Bolt",
       "condition": "new",
       "price": 41808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt LT",
+      "vin": "1G1FY6EVXVF114319",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/9ecb7b6ac9b4.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 44954.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV0VF114505",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6cc936a7f98c.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 40179.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV1VF121978",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/883262a9ee5b.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 38989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV4VF126270",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5c05cfa800f6.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 39389.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV6VF100334",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/61d948b6e190.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 42659.0,
       "price_currency": "CAD"
     },
     {
