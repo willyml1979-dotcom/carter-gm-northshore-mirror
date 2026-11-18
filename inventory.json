@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-11-18T08:32:57",
-  "vehicle_count": 232,
+  "generated_at": "2026-11-18T08:36:43",
+  "vehicle_count": 231,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -119,14 +119,16 @@
       "name": "Certified Used2022GMCSierra 3500HD4WDDenali",
       "vin": "1GT49WEY0NF241618",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/3e11636b9388.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 76699.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2022GMCYukon4WDSLE",
       "vin": "1GKS2AKD8NR202973",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/422e4d13d4b0.html",
       "condition": "used",
-      "price": 40538.0,
+      "price": 36998.0,
       "price_currency": "CAD"
     },
     {
@@ -151,7 +153,9 @@
       "name": "Certified Used2022VolvoXC90AWDMomentum",
       "vin": "YV4A22PK1N1860991",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2da77183f32a.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 42824.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2023CadillacEscalade4WD4WD Premium Luxury",
@@ -163,7 +167,9 @@
       "name": "Certified Used2023CadillacEscalade4WD4WD Sport Platinum",
       "vin": "1GYS4GKL5PR139683",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/7d9149b5ca1b.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 102955.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2023ChevroletBolt EUVFWDLT",
@@ -194,7 +200,7 @@
       "vin": "1GKS2GKD7PR458608",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d0faf3750aae.html",
       "condition": "used",
-      "price": 65699.0,
+      "price": 61700.0,
       "price_currency": "CAD"
     },
     {
@@ -202,11 +208,11 @@
       "vin": "3PCAJ5JR8PF116781",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/c5bab4f84493.html",
       "condition": "used",
-      "price": 37000.0,
+      "price": 34699.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2023KiaEV6RWDLong Range",
+      "name": "Used2023KiaEV6RWDLong Range",
       "vin": "KNDC34LA0P5149344",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/73568d5e88fd.html",
       "condition": "used"
@@ -265,12 +271,6 @@
       "name": "Certified Used2024GMCHUMMER EV SUV4WD2X",
       "vin": "1GKB0NDEXRU109149",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/2799744a62c5.html",
-      "condition": "used"
-    },
-    {
-      "name": "Certified Used2024GMCSierra 3500HD4WDDenali Ultimate",
-      "vin": "1GT49YEY3RF449171",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/6ac2bd4bd340.html",
       "condition": "used"
     },
     {
