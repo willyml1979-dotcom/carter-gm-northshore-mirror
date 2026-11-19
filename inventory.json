@@ -1,7 +1,7 @@
 {
   "dealership": "Carter Gm Northshore",
-  "generated_at": "2026-11-18T08:36:43",
-  "vehicle_count": 231,
+  "generated_at": "2026-11-18T18:14:35",
+  "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -233,7 +233,9 @@
       "name": "Certified Used2024BuickEnvisionAWDSport Touring",
       "vin": "LRBFZPE42RD065313",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/06ebc46cbfb4.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 37699.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2024ChevroletCorvetteRWD1LT",
@@ -411,14 +413,16 @@
       "name": "Certified Used2026ChevroletEquinox EVFWDLT",
       "vin": "3GN7DLRP7TS106096",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/f15ed8c355db.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 39699.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2026ChevroletSilverado 15004WDZR2",
       "vin": "3GCUKHE83TG120271",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/e362127a3200.html",
       "condition": "used",
-      "price": 77828.0,
+      "price": 73700.0,
       "price_currency": "CAD"
     },
     {
@@ -443,119 +447,15 @@
       "name": "Certified Used2026HondaHR-VAWDSport",
       "vin": "3CZRZ2H50TM100359",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/d61a079eab28.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 32618.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2027ChevroletBoltFWDRS",
       "vin": "1G1FZ6EV5VF101622",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/used/60ce6d16c07a.html",
       "condition": "used"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV6VF126268",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0d276dd5cffe.html",
-      "condition": "new",
-      "price": 39613.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV8VF120567",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6315d2d95d2e.html",
-      "condition": "new",
-      "price": 40708.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EV9VF124322",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b57ea7db1e94.html",
-      "condition": "new",
-      "price": 39213.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDRS",
-      "vin": "1G1FZ6EVXVF118898",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/79145996ba92.html",
-      "condition": "new",
-      "price": 38595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletCorvetteRWD2LT",
-      "vin": "1G1YT2D50V5300748",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/20f0a00549a5.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD ACTIV",
-      "vin": "3GNAXSEG0VL149107",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/903fbe2c0496.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD ACTIV",
-      "vin": "3GNAXSEG3VL148257",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/87ae684fdb99.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD ACTIV",
-      "vin": "3GNAXSEG5VL151354",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5903caf4e56e.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD ACTIV",
-      "vin": "3GNAXSEG7VL126536",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1e6215ac6c32.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD LT",
-      "vin": "3GNAXPEG6VL167995",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f43e5f206a39.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinoxAWDAWD LT",
-      "vin": "3GNAXPEGXVL150052",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e9a39d94ba49.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP1VS107317",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/86dc781b313a.html",
-      "condition": "new",
-      "price": 45203.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP2VS108217",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e5be6458b7ad.html",
-      "condition": "new",
-      "price": 44108.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP2VS108234",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cd05d4220633.html",
-      "condition": "new",
-      "price": 44108.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP3VS107349",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b0e6b80e3d09.html",
-      "condition": "new",
-      "price": 45203.0,
-      "price_currency": "CAD"
     },
     {
       "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
@@ -1762,17 +1662,6 @@
     },
     {
       "name": "2027 Chevrolet Bolt LT",
-      "vin": "1G1FY6EV2VF110930",
-      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/80a4cdc109ac.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Bolt",
-      "condition": "new",
-      "price": 41834.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chevrolet Bolt LT",
       "vin": "1G1FY6EV2VF112886",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/a275042e3458.html",
       "year": 2027,
@@ -1992,6 +1881,101 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV6VF126268",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/0d276dd5cffe.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 39389.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV8VF120567",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/6315d2d95d2e.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 40884.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EV9VF124322",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b57ea7db1e94.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 39389.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Bolt RS",
+      "vin": "1G1FZ6EVXVF118898",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/79145996ba92.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Bolt",
+      "condition": "new",
+      "price": 39070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Corvette 2LT",
+      "vin": "1G1YT2D50V5300748",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/20f0a00549a5.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "condition": "new",
+      "price": 141215.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD ACTIV",
+      "vin": "3GNAXSEG0VL149107",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/903fbe2c0496.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 46176.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD ACTIV",
+      "vin": "3GNAXSEG3VL148257",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/87ae684fdb99.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD ACTIV",
+      "vin": "3GNAXSEG5VL151354",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5903caf4e56e.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 49831.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD ACTIV",
+      "vin": "3GNAXSEG7VL126536",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/1e6215ac6c32.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new"
+    },
+    {
       "name": "2027 Chevrolet Equinox AWD LT",
       "vin": "3GNAXPEG1VL242411",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cf37590482e3.html",
@@ -2000,6 +1984,28 @@
       "model": "Equinox",
       "condition": "new",
       "price": 40031.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD LT",
+      "vin": "3GNAXPEG6VL167995",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/f43e5f206a39.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 43786.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox AWD LT",
+      "vin": "3GNAXPEGXVL150052",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e9a39d94ba49.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "condition": "new",
+      "price": 44436.0,
       "price_currency": "CAD"
     },
     {
@@ -2026,6 +2032,50 @@
     },
     {
       "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP1VS107317",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/86dc781b313a.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 45236.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP2VS108217",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e5be6458b7ad.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 44141.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP2VS108234",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/cd05d4220633.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 44141.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
+      "vin": "3GN7DMRP3VS107349",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/b0e6b80e3d09.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new",
+      "price": 45236.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV LT1 w/PCY",
       "vin": "3GN7DMRP6VS108236",
       "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/e4fe2494dc58.html",
       "year": 2027,
@@ -2033,6 +2083,17 @@
       "model": "Equinox EV",
       "condition": "new",
       "price": 44108.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 Trail Boss",
+      "vin": "3GCUKFEM7VG111481",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/8258f2c35764.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 90271.0,
       "price_currency": "CAD"
     },
     {
@@ -2055,6 +2116,17 @@
       "model": "Traverse",
       "condition": "new",
       "price": 63576.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Acadia Denali",
+      "vin": "1GKEMRKS2VJ202891",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/5d3ceb4b4f48.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Acadia",
+      "condition": "new",
+      "price": 76976.0,
       "price_currency": "CAD"
     },
     {
@@ -2086,6 +2158,17 @@
       "model": "Terrain",
       "condition": "new",
       "price": 54476.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 GMC Yukon AT4",
+      "vin": "1GKS2CKD2VR176267",
+      "url": "https://willyml1979-dotcom.github.io/carter-gm-northshore-mirror/new/3ce16a4b534d.html",
+      "year": 2027,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new",
+      "price": 107491.0,
       "price_currency": "CAD"
     },
     {
